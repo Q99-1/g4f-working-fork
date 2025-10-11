@@ -1,8 +1,8 @@
-name: Daily Provider Model Testing  
+name: Hourly Provider Model Testing  
   
 on:  
   schedule:  
-    - cron: '0 6,18 * * *'  # Run daily at 6 AM UTC  
+    - cron: '0 */2 * * *'  # Run every 2 hours (recommended)
   workflow_dispatch:  # Allow manual triggering  
   
 jobs:  
@@ -25,7 +25,6 @@ jobs:
       run: |  
         sudo apt-get update  
         sudo apt-get install -y ffmpeg flac  
-
     - name: Clear pip cache  
       run: pip cache purge  
   
@@ -62,7 +61,7 @@ jobs:
         # Add new files and commit  
         if [ -n "$(git status --porcelain)" ]; then  
           git add .  
-          git commit -m "Daily provider test results - $(date '+%Y-%m-%d')"  
+          git commit -m "Automated provider test - $(date '+%Y-%m-%d %H:%M UTC')"  
           git push  
         else  
           echo "No changes to commit"  
