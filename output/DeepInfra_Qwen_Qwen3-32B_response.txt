@@ -1,4 +1,0 @@
-<think>
-Okay, the user just greeted me and asked if I'm working, asking to reply with 'Yes' if I can respond. Let me process this step by step. 
-
-First, I need to confirm whether I can reply. Since I

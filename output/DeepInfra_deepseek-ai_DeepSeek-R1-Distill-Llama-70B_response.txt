@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to convert 50 degrees Fahrenheit to Celsius. Hmm, I remember there's a formula for that, but I'm not exactly sure what it is. Let me think. I think it involves subtract
+Okay, the user asked me if I'm working and to reply with 'Yes' if I can respond. I responded with 'Yes.' Now they've given me a follow-up that says "Hello, are you working? Reply with '

@@ -1,2 +1,7 @@
 <think>
-Alright, so I'm trying to figure out what this question is asking. It seems straightforward, but I want to make sure I understand it correctly before jumping to any conclusions. The question says, "Hello, are you working? Reply with
+Okay, the user is asking if I'm working and to reply with 'Yes' if I can respond. I should confirm that I'm operational.
+
+I'll keep it simple and just say 'Yes.'
+</think>
+
+Yes
