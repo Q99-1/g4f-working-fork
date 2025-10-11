@@ -1,7 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and to reply with 'Yes' if I can respond. I should confirm that I'm operational.
-
-I'll keep it simple and just say 'Yes.'
-</think>
-
-Yes
+Okay, so the user sent a greeting, and I responded appropriately. Now, they're asking if I'm working. I replied 'Yes'. That should be sufficient. Hopefully, they'll follow up with their actual query so I can assist

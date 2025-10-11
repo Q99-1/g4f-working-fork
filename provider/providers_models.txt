@@ -556,7 +556,7 @@ Provider: HuggingFace
 ------------------------------
 URL: https://huggingface.co
 Label: None
-Model Count: 38
+Model Count: 39
 Models:
  - zai-org/GLM-4.6
  - deepseek-ai/DeepSeek-V3.2-Exp
@@ -570,13 +570,14 @@ Models:
  - moonshotai/Kimi-K2-Instruct-0905
  - meta-llama/Llama-3.1-8B
  - Qwen/Qwen3-8B
+ - Kwaipilot/KAT-Dev
  - zai-org/GLM-4.6-FP8
  - meta-llama/Llama-3.2-1B-Instruct
  - Qwen/Qwen3-4B-Thinking-2507
- - Kwaipilot/KAT-Dev
  - zai-org/GLM-4.5-Air
  - meta-llama/Llama-3.2-3B-Instruct
  - zai-org/GLM-4.5
+ - Qwen/Qwen3-Coder-30B-A3B-Instruct
  - Qwen/Qwen3-Next-80B-A3B-Thinking
  - meta-llama/Llama-3.2-11B-Vision-Instruct
  - Qwen/Qwen2-VL-7B-Instruct
@@ -603,7 +604,7 @@ Provider: HuggingFaceAPI
 ------------------------------
 URL: https://api-inference.huggingface.com
 Label: HuggingFace (Text Generation)
-Model Count: 183
+Model Count: 182
 Models:
  - zai-org/GLM-4.6
  - deepseek-ai/DeepSeek-V3.2-Exp
@@ -617,29 +618,29 @@ Models:
  - deepseek-ai/DeepSeek-R1
  - moonshotai/Kimi-K2-Instruct-0905
  - Qwen/Qwen3-8B
+ - Kwaipilot/KAT-Dev
  - zai-org/GLM-4.6-FP8
  - meta-llama/Llama-3.2-1B-Instruct
  - Qwen/Qwen2.5-VL-7B-Instruct
  - Qwen/Qwen3-4B-Thinking-2507
  - Qwen/Qwen3-VL-235B-A22B-Instruct
- - Kwaipilot/KAT-Dev
  - zai-org/GLM-4.5-Air
  - mistralai/Mistral-7B-Instruct-v0.3
  - meta-llama/Llama-3.2-3B-Instruct
  - zai-org/GLM-4.5
+ - Qwen/Qwen3-Coder-30B-A3B-Instruct
  - Qwen/Qwen3-Next-80B-A3B-Thinking
  - meta-llama/Meta-Llama-3-8B-Instruct
  - meta-llama/Llama-4-Scout-17B-16E-Instruct
- - Qwen/Qwen3-Coder-30B-A3B-Instruct
  - mistralai/Mistral-7B-Instruct-v0.2
  - meta-llama/Llama-3.3-70B-Instruct
  - HuggingFaceTB/SmolLM3-3B
  - moonshotai/Kimi-K2-Instruct
  - swiss-ai/Apertus-8B-Instruct-2509
+ - google/gemma-2-2b-it
  - PocketDoc/Dans-PersonalityEngine-V1.3.0-24b
  - zai-org/GLM-4.5-Air-FP8
  - zai-org/GLM-4.5V
- - google/gemma-2-2b-it
  - Qwen/Qwen2.5-7B-Instruct
  - google/gemma-3-27b-it
  - meta-llama/Llama-4-Maverick-17B-128E-Instruct
@@ -657,11 +658,11 @@ Models:
  - deepseek-ai/DeepSeek-V3-0324
  - Qwen/Qwen3-14B
  - Qwen/Qwen3-32B
+ - deepseek-ai/DeepSeek-R1-0528
  - SeaLLMs/SeaLLMs-v3-7B-Chat
  - meta-llama/Llama-3.1-70B-Instruct
  - deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
  - mlabonne/gemma-3-27b-it-abliterated
- - deepseek-ai/DeepSeek-R1-0528
  - Qwen/Qwen3-235B-A22B-Instruct-2507
  - deepseek-ai/DeepSeek-V3.1
  - GritLM/GritLM-7B
@@ -700,6 +701,7 @@ Models:
  - cgato/L3-TheSpice-8b-v0.1.3
  - Orenguteng/Llama-3-8B-Lexi-Uncensored
  - MLP-KTLim/llama-3-Korean-Bllossom-8B
+ - defog/llama-3-sqlcoder-8b
  - dphn/dolphin-2.9.2-qwen2-7b
  - failspy/Meta-Llama-3-70B-Instruct-abliterated-v3.5
  - yentinglin/Llama-3-Taiwan-70B-Instruct
@@ -715,7 +717,6 @@ Models:
  - mlabonne/Meta-Llama-3.1-8B-Instruct-abliterated
  - NousResearch/Hermes-3-Llama-3.1-8B
  - Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2
- - NousResearch/Hermes-3-Llama-3.1-405B
  - nbeerbower/mistral-nemo-gutenberg-12B-v4
  - nvidia/Llama-3.1-8B-Instruct-FP8
  - arcee-ai/Llama-3.1-SuperNova-Lite
@@ -749,7 +750,6 @@ Models:
  - huihui-ai/Qwen2.5-14B-Instruct-1M-abliterated
  - PocketDoc/Dans-PersonalityEngine-V1.2.0-24b
  - Xiaojian9992024/Qwen2.5-Dyanka-7B-Preview
- - CohereLabs/aya-vision-32b
  - allura-org/Gemma-3-Glitter-12B
  - DreadPoor/Irix-12B-Model_Stock
  - all-hands/openhands-lm-32b-v0.1
@@ -795,7 +795,7 @@ Provider: HuggingFaceMedia
 ------------------------------
 URL: https://huggingface.co
 Label: HuggingFace
-Model Count: 341
+Model Count: 342
 Models:
  - Wan-AI/Wan2.2-T2V-A14B
  - Wan-AI/Wan2.2-T2V-A14B:fal-ai
@@ -824,13 +824,11 @@ Models:
  - black-forest-labs/FLUX.1-dev:together
  - black-forest-labs/FLUX.1-dev:fal-ai
  - black-forest-labs/FLUX.1-dev:replicate
+ - black-forest-labs/FLUX.1-dev:hf-inference
  - stabilityai/stable-diffusion-xl-base-1.0
  - stabilityai/stable-diffusion-xl-base-1.0:nscale
  - stabilityai/stable-diffusion-xl-base-1.0:replicate
  - stabilityai/stable-diffusion-xl-base-1.0:hf-inference
- - Qwen/Qwen-Image
- - Qwen/Qwen-Image:fal-ai
- - Qwen/Qwen-Image:replicate
  - black-forest-labs/FLUX.1-schnell
  - black-forest-labs/FLUX.1-schnell:nebius
  - black-forest-labs/FLUX.1-schnell:nscale
@@ -838,6 +836,9 @@ Models:
  - black-forest-labs/FLUX.1-schnell:fal-ai
  - black-forest-labs/FLUX.1-schnell:replicate
  - black-forest-labs/FLUX.1-schnell:hf-inference
+ - Qwen/Qwen-Image
+ - Qwen/Qwen-Image:fal-ai
+ - Qwen/Qwen-Image:replicate
  - Danrisi/Qwen-image_SamsungCam_UltraReal
  - Danrisi/Qwen-image_SamsungCam_UltraReal:fal-ai
  - stabilityai/stable-diffusion-3.5-large
@@ -847,14 +848,12 @@ Models:
  - ByteDance/Hyper-SD
  - ByteDance/Hyper-SD:fal-ai
  - ByteDance/Hyper-SD:replicate
- - ByteDance/Hyper-SD:replicate
  - flymy-ai/qwen-image-realism-lora
  - flymy-ai/qwen-image-realism-lora:fal-ai
  - tencent/HunyuanImage-2.1
  - tencent/HunyuanImage-2.1:fal-ai
  - tencent/HunyuanImage-2.1:replicate
  - stabilityai/stable-diffusion-3-medium
- - stabilityai/stable-diffusion-3-medium:fal-ai
  - stabilityai/stable-diffusion-3-medium:replicate
  - Kwai-Kolors/Kolors
  - Kwai-Kolors/Kolors:fal-ai
@@ -891,6 +890,8 @@ Models:
  - ntc-ai/SDXL-LoRA-slider.comic-portrait:fal-ai
  - dog-god/texture-synthesis-sdxl-lora
  - dog-god/texture-synthesis-sdxl-lora:fal-ai
+ - playgroundai/playground-v2.5-1024px-aesthetic
+ - playgroundai/playground-v2.5-1024px-aesthetic:replicate
  - ByteDance/SDXL-Lightning
  - ByteDance/SDXL-Lightning:fal-ai
  - ByteDance/SDXL-Lightning:replicate
@@ -2705,14 +2706,14 @@ URL: https://qwen-qwen3-demo.hf.space
 Label: Qwen Qwen-3
 Model Count: 8
 Models:
- - qwen-3-14b
+ - qwen-3-1.7b
+ - qwen-3-235b
  - qwen-3-30b-a3b
  - qwen-3-32b
- - qwen-3-235b
- - qwen-3-0.6b
  - qwen-3-4b
+ - qwen-3-14b
+ - qwen-3-0.6b
  - qwen-3-8b
- - qwen-3-1.7b
 
 ==================================================
 

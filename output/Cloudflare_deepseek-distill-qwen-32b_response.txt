@@ -1,2 +1,4 @@
 <think>
-Okay, the user just asked if I'm working and to respond with 'Yes' if I can. Since I can respond, I'll say 'Yes'. Then I should ask how I can assist them today to keep the conversation going.
+Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." They want a confirmation that I'm functioning properly. My response was "Yes," which should suffice. 
+
+I need to make
