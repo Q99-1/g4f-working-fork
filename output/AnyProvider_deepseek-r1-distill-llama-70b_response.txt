@@ -1,5 +1,2 @@
 <think>
-Alright, the user said "Yes." I should acknowledge that and offer my help. Maybe ask how I can assist them today. That should keep the conversation going smoothly.
-</think>
-
-Yes! How can I assist you today?
+Okay, I need to figure out how to respond to the user's question. They asked, "Hello, are you working? Reply with 'Yes' if you can respond." So, they want a simple 'Yes' as a response

@@ -1,2 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me see. First, they want to check if I'm operational. They probably sent this because they didn't get a
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure I understand exactly what they're asking. They want to confirm if I'm functioning properly and able
