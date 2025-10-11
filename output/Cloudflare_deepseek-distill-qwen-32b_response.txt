@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to respond to the user's message. They said, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." Then the assistant replied with "
+Okay, the user asked if I'm working and to respond with 'Yes' if I can. I should make sure to just say 'Yes' without any extra information. That's straightforward. I don't need to add anything else because
