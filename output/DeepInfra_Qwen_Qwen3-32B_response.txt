@@ -1,2 +1,4 @@
 <think>
-Okay, the user sent a message asking, Hello, are you working? Reply with 'Yes' if you can respond. According to the instructions, I should first respond with 'Yes'. Next, I need to figure out which aspects of
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+
+First, they're checking if I'm active, which makes sense since sometimes users might ask
