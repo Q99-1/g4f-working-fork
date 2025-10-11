@@ -556,7 +556,7 @@ Provider: HuggingFace
 ------------------------------
 URL: https://huggingface.co
 Label: None
-Model Count: 39
+Model Count: 40
 Models:
  - zai-org/GLM-4.6
  - deepseek-ai/DeepSeek-V3.2-Exp
@@ -566,8 +566,8 @@ Models:
  - Qwen/Qwen3-4B-Instruct-2507
  - dphn/Dolphin-Mistral-24B-Venice-Edition
  - Qwen/Qwen3-Next-80B-A3B-Instruct
- - deepseek-ai/DeepSeek-R1
  - moonshotai/Kimi-K2-Instruct-0905
+ - deepseek-ai/DeepSeek-R1
  - meta-llama/Llama-3.1-8B
  - Qwen/Qwen3-8B
  - Kwaipilot/KAT-Dev
@@ -575,6 +575,7 @@ Models:
  - meta-llama/Llama-3.2-1B-Instruct
  - Qwen/Qwen3-4B-Thinking-2507
  - zai-org/GLM-4.5-Air
+ - meta-llama/Meta-Llama-3-8B-Instruct
  - meta-llama/Llama-3.2-3B-Instruct
  - zai-org/GLM-4.5
  - Qwen/Qwen3-Coder-30B-A3B-Instruct
@@ -604,7 +605,7 @@ Provider: HuggingFaceAPI
 ------------------------------
 URL: https://api-inference.huggingface.com
 Label: HuggingFace (Text Generation)
-Model Count: 182
+Model Count: 184
 Models:
  - zai-org/GLM-4.6
  - deepseek-ai/DeepSeek-V3.2-Exp
@@ -612,11 +613,11 @@ Models:
  - openai/gpt-oss-120b
  - meta-llama/Llama-3.1-8B-Instruct
  - Qwen/Qwen3-4B-Instruct-2507
- - Qwen/Qwen3-VL-235B-A22B-Thinking
  - dphn/Dolphin-Mistral-24B-Venice-Edition
+ - Qwen/Qwen3-VL-235B-A22B-Thinking
  - Qwen/Qwen3-Next-80B-A3B-Instruct
- - deepseek-ai/DeepSeek-R1
  - moonshotai/Kimi-K2-Instruct-0905
+ - deepseek-ai/DeepSeek-R1
  - Qwen/Qwen3-8B
  - Kwaipilot/KAT-Dev
  - zai-org/GLM-4.6-FP8
@@ -625,12 +626,12 @@ Models:
  - Qwen/Qwen3-4B-Thinking-2507
  - Qwen/Qwen3-VL-235B-A22B-Instruct
  - zai-org/GLM-4.5-Air
+ - meta-llama/Meta-Llama-3-8B-Instruct
  - mistralai/Mistral-7B-Instruct-v0.3
  - meta-llama/Llama-3.2-3B-Instruct
  - zai-org/GLM-4.5
  - Qwen/Qwen3-Coder-30B-A3B-Instruct
  - Qwen/Qwen3-Next-80B-A3B-Thinking
- - meta-llama/Meta-Llama-3-8B-Instruct
  - meta-llama/Llama-4-Scout-17B-16E-Instruct
  - mistralai/Mistral-7B-Instruct-v0.2
  - meta-llama/Llama-3.3-70B-Instruct
@@ -676,6 +677,7 @@ Models:
  - Steelskull/L3.3-MS-Nevoria-70b
  - deepseek-ai/DeepSeek-R1-Distill-Qwen-7B
  - huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2
+ - Qwen/Qwen2.5-VL-72B-Instruct
  - mistralai/Mistral-Small-24B-Instruct-2501
  - nvidia/Llama-3.1-Nemotron-Nano-8B-v1
  - Qwen/Qwen2.5-VL-32B-Instruct
@@ -717,6 +719,7 @@ Models:
  - mlabonne/Meta-Llama-3.1-8B-Instruct-abliterated
  - NousResearch/Hermes-3-Llama-3.1-8B
  - Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2
+ - NousResearch/Hermes-3-Llama-3.1-405B
  - nbeerbower/mistral-nemo-gutenberg-12B-v4
  - nvidia/Llama-3.1-8B-Instruct-FP8
  - arcee-ai/Llama-3.1-SuperNova-Lite
@@ -746,10 +749,10 @@ Models:
  - AtlaAI/Selene-1-Mini-Llama-3.1-8B
  - Qwen/Qwen2.5-14B-Instruct-1M
  - NaniDAO/deepseek-r1-qwen-2.5-32B-ablated
- - Qwen/Qwen2.5-VL-72B-Instruct
  - huihui-ai/Qwen2.5-14B-Instruct-1M-abliterated
  - PocketDoc/Dans-PersonalityEngine-V1.2.0-24b
  - Xiaojian9992024/Qwen2.5-Dyanka-7B-Preview
+ - CohereLabs/aya-vision-32b
  - allura-org/Gemma-3-Glitter-12B
  - DreadPoor/Irix-12B-Model_Stock
  - all-hands/openhands-lm-32b-v0.1
@@ -816,6 +819,8 @@ Models:
  - Wan-AI/Wan2.2-T2V-A14B-Diffusers
  - Wan-AI/Wan2.2-T2V-A14B-Diffusers:fal-ai
  - Wan-AI/Wan2.2-T2V-A14B-Diffusers:replicate
+ - akhaliq/sora-2
+ - akhaliq/sora-2:fal-ai
  - tencent/HunyuanImage-3.0
  - tencent/HunyuanImage-3.0:fal-ai
  - tencent/HunyuanImage-3.0:replicate
@@ -890,8 +895,6 @@ Models:
  - ntc-ai/SDXL-LoRA-slider.comic-portrait:fal-ai
  - dog-god/texture-synthesis-sdxl-lora
  - dog-god/texture-synthesis-sdxl-lora:fal-ai
- - playgroundai/playground-v2.5-1024px-aesthetic
- - playgroundai/playground-v2.5-1024px-aesthetic:replicate
  - ByteDance/SDXL-Lightning
  - ByteDance/SDXL-Lightning:fal-ai
  - ByteDance/SDXL-Lightning:replicate
@@ -2706,14 +2709,14 @@ URL: https://qwen-qwen3-demo.hf.space
 Label: Qwen Qwen-3
 Model Count: 8
 Models:
- - qwen-3-1.7b
- - qwen-3-235b
- - qwen-3-30b-a3b
- - qwen-3-32b
- - qwen-3-4b
  - qwen-3-14b
  - qwen-3-0.6b
+ - qwen-3-30b-a3b
+ - qwen-3-1.7b
+ - qwen-3-4b
+ - qwen-3-235b
  - qwen-3-8b
+ - qwen-3-32b
 
 ==================================================
 

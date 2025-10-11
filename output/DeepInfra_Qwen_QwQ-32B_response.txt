@@ -1,3 +1,1 @@
-Alright, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
-
-First, they're greeting me with "Hello," so a polite response is needed. Then they
+Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." So they want a simple confirmation that I'm operational. Let me check the instructions again. The user specified to reply with just 'Yes

@@ -1,2 +1,4 @@
 <think>
-Okay, let me see. The user wrote, "Hello, are you working? Reply with 'Yes' if you can respond." They're probably testing if I'm online or functioning. The instruction is specific: reply with 'Yes'
+Okay, the user is greeting me and asking if I'm working. They want me to reply with 'Yes' if I can respond. Let me make sure I understand correctly.
+
+First, I need to confirm that they're checking if I
