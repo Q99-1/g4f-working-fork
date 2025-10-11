@@ -1,3 +1,1 @@
-Okay, the user started with a greeting and asked if I'm working, and they want me to reply with just 'Yes' if I can respond. Let me think.
-
-First, I need to confirm that I'm operational. Since I'm an
+Okay, the user sent a message asking if I'm working and to reply with 'Yes' if I can respond. Let me see. First, I need to confirm that I'm operational. Since the user is asking for a simple "Yes"

@@ -556,7 +556,7 @@ Provider: HuggingFace
 ------------------------------
 URL: https://huggingface.co
 Label: None
-Model Count: 37
+Model Count: 38
 Models:
  - zai-org/GLM-4.6
  - deepseek-ai/DeepSeek-V3.2-Exp
@@ -565,8 +565,8 @@ Models:
  - meta-llama/Llama-3.1-8B-Instruct
  - Qwen/Qwen3-4B-Instruct-2507
  - Qwen/Qwen3-Next-80B-A3B-Instruct
- - deepseek-ai/DeepSeek-R1
  - dphn/Dolphin-Mistral-24B-Venice-Edition
+ - deepseek-ai/DeepSeek-R1
  - moonshotai/Kimi-K2-Instruct-0905
  - meta-llama/Llama-3.1-8B
  - Qwen/Qwen3-8B
@@ -576,6 +576,7 @@ Models:
  - Kwaipilot/KAT-Dev
  - zai-org/GLM-4.5-Air
  - meta-llama/Llama-3.2-3B-Instruct
+ - zai-org/GLM-4.5
  - Qwen/Qwen3-Next-80B-A3B-Thinking
  - meta-llama/Llama-3.2-11B-Vision-Instruct
  - Qwen/Qwen2-VL-7B-Instruct
@@ -602,7 +603,7 @@ Provider: HuggingFaceAPI
 ------------------------------
 URL: https://api-inference.huggingface.com
 Label: HuggingFace (Text Generation)
-Model Count: 181
+Model Count: 180
 Models:
  - zai-org/GLM-4.6
  - deepseek-ai/DeepSeek-V3.2-Exp
@@ -612,8 +613,8 @@ Models:
  - Qwen/Qwen3-4B-Instruct-2507
  - Qwen/Qwen3-Next-80B-A3B-Instruct
  - Qwen/Qwen3-VL-235B-A22B-Thinking
- - deepseek-ai/DeepSeek-R1
  - dphn/Dolphin-Mistral-24B-Venice-Edition
+ - deepseek-ai/DeepSeek-R1
  - moonshotai/Kimi-K2-Instruct-0905
  - Qwen/Qwen3-8B
  - zai-org/GLM-4.6-FP8
@@ -624,17 +625,17 @@ Models:
  - Kwaipilot/KAT-Dev
  - zai-org/GLM-4.5-Air
  - meta-llama/Llama-3.2-3B-Instruct
+ - zai-org/GLM-4.5
  - Qwen/Qwen3-Next-80B-A3B-Thinking
  - meta-llama/Meta-Llama-3-8B-Instruct
  - mistralai/Mistral-7B-Instruct-v0.3
+ - meta-llama/Llama-3.3-70B-Instruct
  - meta-llama/Llama-4-Scout-17B-16E-Instruct
- - zai-org/GLM-4.5
  - Qwen/Qwen3-Coder-30B-A3B-Instruct
  - mistralai/Mistral-7B-Instruct-v0.2
- - meta-llama/Llama-3.3-70B-Instruct
  - HuggingFaceTB/SmolLM3-3B
- - swiss-ai/Apertus-8B-Instruct-2509
  - moonshotai/Kimi-K2-Instruct
+ - swiss-ai/Apertus-8B-Instruct-2509
  - zai-org/GLM-4.5-Air-FP8
  - Qwen/Qwen3-30B-A3B-Instruct-2507
  - zai-org/GLM-4.5V
@@ -770,7 +771,6 @@ Models:
  - open-thoughts/OpenThinker3-7B
  - katanemo/Arch-Router-1.5B
  - Menlo/Jan-nano
- - MiniMaxAI/MiniMax-M1-80k
  - SakanaAI/RLT-7B
  - baidu/ERNIE-4.5-0.3B-PT
  - nvidia/OpenReasoning-Nemotron-32B
@@ -2701,14 +2701,14 @@ URL: https://qwen-qwen3-demo.hf.space
 Label: Qwen Qwen-3
 Model Count: 8
 Models:
+ - qwen-3-14b
+ - qwen-3-4b
+ - qwen-3-32b
+ - qwen-3-235b
+ - qwen-3-8b
+ - qwen-3-0.6b
  - qwen-3-1.7b
  - qwen-3-30b-a3b
- - qwen-3-32b
- - qwen-3-8b
- - qwen-3-4b
- - qwen-3-0.6b
- - qwen-3-14b
- - qwen-3-235b
 
 ==================================================
 

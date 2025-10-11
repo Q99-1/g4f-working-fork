@@ -1,1 +1,3 @@
-Okay, the user said "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple "Yes" if I'm operational. Let me check the guidelines. I need to confirm I'm available. But wait
+Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation that I'm operational.
+
+First, I need to make sure I understand the query correctly. They're
