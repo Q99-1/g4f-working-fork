@@ -1,2 +1,2 @@
 <think>
-Okay, the user just said "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." I need to confirm they want a simple "Yes" without any extra text. Since they specified the
+Okay, so I'm trying to figure out how to respond to this user. They said, "Hello, are you working? Reply with 'Yes' if you can respond." And the assistant just replied with "Yes." Hmm, maybe

@@ -1,5 +1,4 @@
 <think>
-Hello! I'm DeepSeek-R1, an artificial intelligence assistant created by DeepSeek. For comprehensive details about our models and products, we invite you to consult our official documentation.
-</think>
+Okay, the user said "Hello, are you working? Reply with 'Yes' if you can respond." So, I need to make sure I'm responding correctly.
 
-Hello! I'm DeepSeek-R1, an
+First, I check if I can indeed respond. Since I'm an

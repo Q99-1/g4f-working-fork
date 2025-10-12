@@ -1,2 +1,2 @@
 <think>
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure they want a confirmation of my availability. They specified to reply 'Yes', so I should follow
+Okay, the user is greeting me with Hello and asking if I'm working. They specifically asked to reply with 'Yes' if I can respond. I need to check if there's any reason I can't respond. Since there's no
