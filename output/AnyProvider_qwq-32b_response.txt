@@ -1,1 +1,0 @@
-Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." So they want to check if I'm operational. My instructions are to respond with just "Yes" if I can. Let me make

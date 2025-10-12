@@ -1,2 +1,4 @@
 <think>
-Okay, so I need to figure out how to solve this problem where I have to find the value of x in the equation 2x + 5 = 21. Alright, let me start by understanding what the equation is saying.
+Okay, so I'm trying to figure out if the assistant is working by asking it to reply with 'Yes'. Alright, let me break this down.
+
+First, I need to understand what the user is asking. They sent a message:
