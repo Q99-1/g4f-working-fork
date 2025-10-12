@@ -1,4 +1,4 @@
 <think>
-Okay, the user asked, Hello, are you working? Reply with 'Yes' if you can respond. First, I need to verify the user's request. They want to know if I'm online and able to respond.
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure I understand what they're asking. They want confirmation that I'm operational.
 
-Next,
+First, since they specified

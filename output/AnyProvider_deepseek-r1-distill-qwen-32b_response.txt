@@ -1,2 +1,4 @@
 <think>
-Okay, so I'm trying to figure out how to respond to the message "Hello, are you working? Reply with 'Yes' if you can respond." The user instructed me to send a 'Yes' if I can reply. Since
+Okay, so I'm trying to figure out how to make a simple app that converts Fahrenheit to Celsius. I don't have much experience with programming, but I think I can learn this. Let me break it down step by step.
+
+First
