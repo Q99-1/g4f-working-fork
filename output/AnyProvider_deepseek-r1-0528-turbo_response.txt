@@ -1,4 +1,2 @@
 <think>
-Hmm, the user just asked "Hello, are you working? Reply with 'Yes' if you can respond."  
-
-This seems like a simple connectivity check - they're probably testing if I'm online and responsive. The request is very
+Okay, the user just asked if I'm working and requested a 'Yes' reply if I can respond. This seems like a basic availability check - maybe they're testing if the system is live or want to confirm I'm active before proceeding
