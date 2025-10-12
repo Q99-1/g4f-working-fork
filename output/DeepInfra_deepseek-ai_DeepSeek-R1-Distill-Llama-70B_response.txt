@@ -1,4 +1,4 @@
 <think>
-Okay, so the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, that's interesting. I need to figure out how to respond appropriately. Let me break this down.
+Okay, the user is checking if I'm working and told me to reply with 'Yes'. So I need to respond quickly and simply with just 'Yes'. No need for any extra information or explanation, just acknowledge their message.
+</think>
 
-First

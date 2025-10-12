@@ -1,2 +1,5 @@
 <think>
-Okay, so I received a message saying "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to respond appropriately. First, I should probably figure out what the user is asking.
+Hello! I'm DeepSeek-R1, an artificial intelligence assistant created by DeepSeek. For comprehensive details about our models and products, we invite you to consult our official documentation.
+</think>
+
+Hello! I'm DeepSeek-R1, an

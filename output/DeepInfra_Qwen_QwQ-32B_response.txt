@@ -1,1 +1,1 @@
-Okay, the user just sent "Hello, are you working? Reply with 'Yes' if you can respond." So they want to make sure I'm operational. They probably did this after maybe some previous issues where responses were delayed or maybe they're
+Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." So they're checking if I'm operational. My instructions are to reply with just "Yes" if I can respond. Let
