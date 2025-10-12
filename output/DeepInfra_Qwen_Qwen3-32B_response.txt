@@ -1,4 +1,2 @@
 <think>
-Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." I need to address their request.
-
-First, they want a simple "Yes" to confirm I'm active. But maybe
+Okay, the user is checking if I'm working. They want a 'Yes' if I can respond. I need to respond in a friendly and helpful way. Let me just make sure I understand correctly. They are likely testing if I
