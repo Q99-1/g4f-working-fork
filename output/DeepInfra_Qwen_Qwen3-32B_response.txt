@@ -1,2 +1,3 @@
 <think>
-Okay, the user is here asking me, Are you working? Let me check my current status. From the background information I have, I know I need to reply with 'Yes' if I'm available to respond. Right now, I
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the instructions first. They mentioned prethinking before responding, so I need to make sure I follow that.
+

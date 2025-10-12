@@ -1,2 +1,5 @@
 <think>
-Okay, so I just saw this message where someone is asking an AI if it's working. They told the AI to reply with 'Yes' if it can. The AI responded with 'Yes'. Now, the user is prompting me to
+Hello! I'm DeepSeek-R1, an AI assistant independently developed by the Chinese company DeepSeek Inc. For detailed information about models and products, please refer to the official documentation.
+</think>
+
+Hello! I'm DeepSeek-R1,

@@ -707,8 +707,8 @@
       "zai-org/GLM-4.6-FP8",
       "zai-org/GLM-4.5-Air",
       "Qwen/Qwen3-Coder-30B-A3B-Instruct",
-      "zai-org/GLM-4.5",
       "mistralai/Mistral-7B-Instruct-v0.3",
+      "zai-org/GLM-4.5",
       "Qwen/Qwen3-Next-80B-A3B-Thinking",
       "meta-llama/Meta-Llama-3-8B-Instruct",
       "meta-llama/Llama-3.2-3B-Instruct",
@@ -750,6 +750,7 @@
       "NousResearch/Hermes-3-Llama-3.1-8B",
       "inflatebot/MN-12B-Mag-Mell-R1",
       "Qwen/Qwen2.5-72B-Instruct",
+      "google/gemma-2-2b-jpn-it",
       "aisingapore/Gemma-SEA-LION-v3-9B-IT",
       "Qwen/Qwen2.5-Coder-32B-Instruct",
       "CohereLabs/c4ai-command-r7b-12-2024",
@@ -793,6 +794,7 @@
       "dmis-lab/llama-3-meerkat-8b-v1.0",
       "m42-health/Llama3-Med42-8B",
       "IlyaGusev/gemma-2-9b-it-abliterated",
+      "meta-llama/Llama-3.1-405B-Instruct",
       "meta-llama/Llama-Guard-3-8B",
       "mlabonne/Meta-Llama-3.1-8B-Instruct-abliterated",
       "Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2",
@@ -806,7 +808,6 @@
       "Qwen/Qwen2.5-Coder-7B-Instruct",
       "Qwen/Qwen2.5-Coder-1.5B",
       "unsloth/Qwen2.5-14B-Instruct",
-      "google/gemma-2-2b-jpn-it",
       "huihui-ai/Qwen2.5-14B-Instruct-abliterated-v2",
       "CohereLabs/aya-expanse-8b",
       "Qwen/Qwen2.5-Coder-14B-Instruct",
@@ -855,6 +856,7 @@
       "baidu/ERNIE-4.5-0.3B-PT",
       "agentica-org/DeepSWE-Preview",
       "nvidia/OpenReasoning-Nemotron-32B",
+      "Tesslate/UIGEN-X-8B",
       "Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8",
       "Qwen/Qwen3-235B-A22B-Thinking-2507",
       "aisingapore/Gemma-SEA-LION-v4-27B-IT",
@@ -864,9 +866,10 @@
       "TheDrummer/Llama-3SOME-8B-v2",
       "mergekit-community/Deepseek-R1-Distill-NSFW-RPv1",
       "ReadyArt/L3.3-The-Omega-Directive-70B-Unslop-v2.0",
+      "sophosympatheia/Strawberrylemonade-L3-70B-v1.1",
       "google/gemma-3-27b-it"
     ],
-    "model_count": 178
+    "model_count": 181
   },
   "HuggingFaceMedia": {
     "provider_info": {
@@ -975,8 +978,6 @@
       "ntc-ai/SDXL-LoRA-slider.comic-portrait:fal-ai",
       "dog-god/texture-synthesis-sdxl-lora",
       "dog-god/texture-synthesis-sdxl-lora:fal-ai",
-      "playgroundai/playground-v2.5-1024px-aesthetic",
-      "playgroundai/playground-v2.5-1024px-aesthetic:fal-ai",
       "ByteDance/SDXL-Lightning",
       "ByteDance/SDXL-Lightning:fal-ai",
       "ByteDance/SDXL-Lightning:replicate",
@@ -1164,7 +1165,7 @@
       "Jonny001/Margot-Robbie:fal-ai",
       "Jonny001/Margot-Robbie:replicate"
     ],
-    "model_count": 286
+    "model_count": 284
   },
   "HuggingSpace": {
     "provider_info": {
@@ -2822,14 +2823,14 @@
       "label": "Qwen Qwen-3"
     },
     "models": [
-      "qwen-3-8b",
-      "qwen-3-14b",
-      "qwen-3-1.7b",
-      "qwen-3-0.6b",
-      "qwen-3-32b",
       "qwen-3-235b",
+      "qwen-3-0.6b",
+      "qwen-3-30b-a3b",
+      "qwen-3-32b",
+      "qwen-3-1.7b",
+      "qwen-3-8b",
       "qwen-3-4b",
-      "qwen-3-30b-a3b"
+      "qwen-3-14b"
     ],
     "model_count": 8
   },
