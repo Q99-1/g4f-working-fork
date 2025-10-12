@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to convert 125 grams of flour into cups. Hmm, I'm not too sure about this, but I'll try to work it out step by step. First, I remember that the density
+Okay, so I need to figure out how to reply to the user's message: "Hello, are you working? Reply with 'Yes' if you can respond." The user wants me to respond with 'Yes' if I'm operational

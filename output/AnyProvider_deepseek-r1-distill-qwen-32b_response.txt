@@ -1,2 +1,4 @@
 <think>
-Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." and I responded with "Yes". Now, they've probably sent another message, but I can't see it yet. Let
+Okay, so the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." And the assistant replied "Yes". Now, they're prompting me to think through how to approach responding to this.
+
+First
