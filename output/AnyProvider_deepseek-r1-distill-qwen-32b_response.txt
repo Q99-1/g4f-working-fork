@@ -1,4 +1,2 @@
 <think>
-Okay, so the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." And the assistant replied "Yes". Now, they're prompting me to think through how to approach responding to this.
-
-First
+Okay, the user said "Hello, are you working? Reply with 'Yes' if you can respond." So I need to check if I can respond. I can see the message, so I should reply with "Yes" as instructed

@@ -1,5 +1,4 @@
 <think>
-We are given a simple instruction: Reply with 'Yes' if we can respond.
- Since we are indeed able to respond, we will output 'Yes'.
-</think>
-Yes
+Hmm, the user just greeted me and asked if I'm working. They specifically requested a "Yes" reply if I can respond. 
+
+This seems like a simple connectivity test - maybe they've had issues with AI assistants before or just
