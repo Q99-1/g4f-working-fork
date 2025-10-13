@@ -1,4 +1,4 @@
 <think>
-Okay, so I need to figure out how to make a simple calculator using Python. The user wants it to perform addition, subtraction, multiplication, and division. Hmm, let's break this down step by step.
+Okay, so I need to figure out how to respond to this user. They wrote, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, the user is checking if I'm operational. 
 
-First, I should think
+First

@@ -1,2 +1,2 @@
 <think>
-Okay, the user just asked if I'm working and wants me to reply with 'Yes' if I can respond. Let me check. The conversation history shows this is the first message they've sent. I need to confirm I'm active
+Okay, the user is asking if I'm working by saying "Hello, are you working? Reply with 'Yes' if you can respond." Let me start by understanding the request. They want a confirmation that I can reply, and the

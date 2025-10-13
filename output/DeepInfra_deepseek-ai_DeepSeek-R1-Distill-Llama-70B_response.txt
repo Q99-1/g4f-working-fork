@@ -1,2 +1,2 @@
 <think>
-Okay, so I just received a message from someone who wrote, "Hello, are you working? Reply with 'Yes' if you can respond." And I responded with "Yes." Now, I need to figure out what they might be
+Okay, I just received a message asking if I'm working and to reply with 'Yes' if I can respond. The user also mentioned that this is part of an AI assistant's process. I want to figure out the best way to
