@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me see. First, I need to confirm that I can indeed respond. Since the user is interacting with me,
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me figure out how to handle this.
+
+First, I need to check if they want a simple "Yes" reply

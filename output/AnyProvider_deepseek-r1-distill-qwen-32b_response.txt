@@ -1,2 +1,4 @@
 <think>
-Okay, so I need to figure out how to solve this equation: 5 times (2x minus 3) equals (3x plus 18) divided by 4. Hmm, that sounds a bit tricky, but I think
+Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." So they're checking if I'm functional. I should confirm that I can help them.
+
+I need to keep it simple and
