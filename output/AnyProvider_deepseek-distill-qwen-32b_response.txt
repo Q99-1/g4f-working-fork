@@ -1,4 +1,2 @@
 <think>
-Okay, so I need to figure out how to respond to this user. They wrote, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, the user is checking if I'm operational. 
-
-First
+Okay, so I just got a message from the user that says, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." Hmm, that's interesting. They're telling me to act
