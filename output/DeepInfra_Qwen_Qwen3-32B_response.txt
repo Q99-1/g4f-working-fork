@@ -1,2 +1,2 @@
 <think>
-Okay, the user greeted me and asked if I'm working, asking to reply with 'Yes' if I can respond. Let me see. I need to acknowledge their message and follow the instructions. The user probably wants a quick confirmation that
+Okay, the user is asking if I am working and wants me to reply with 'Yes' if I can respond. Let me start by acknowledging their greeting. I need to confirm that I'm operational, so replying with "Yes"

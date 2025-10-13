@@ -1,2 +1,2 @@
 <think>
-Alright, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond with just 'Yes' as per their instruction. They might be checking if I'm operational or looking for
+Okay, so I'm trying to figure out how to respond to the user's message. They sent a greeting and said they can respond with 'Yes' if they're working. They also told me to think step by step and write a

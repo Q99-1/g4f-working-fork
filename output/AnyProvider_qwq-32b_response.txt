@@ -1,3 +1,1 @@
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
-
-First, the greeting "Hello" is standard. They're checking if I'm operational. The key
+Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation that I'm operational. The instructions say to respond with just "Yes" if I can. Let

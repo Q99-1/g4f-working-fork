@@ -1,2 +1,4 @@
 <think>
-Okay, so I just got a message from the user that says, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." Hmm, that's interesting. They're telling me to act
+Okay, so I need to figure out how to respond to the user's message. Let me read through the conversation again to understand the context.
+
+The user starts by saying, "You are a helpful assistant." Then they ask, "Hello
