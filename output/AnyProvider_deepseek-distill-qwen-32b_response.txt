@@ -1,2 +1,2 @@
 <think>
-Okay, so the user just asked, "Are you working?" and I replied, "Yes." Now, they've followed up with a detailed query about how to create a comprehensive budget plan. Hmm, I need to make sure I cover
+Okay, so I'm trying to figure out why the user is asking if I'm working. They said, "Hello, are you working? Reply with 'Yes' if you can respond." And I responded with "Yes." Now,

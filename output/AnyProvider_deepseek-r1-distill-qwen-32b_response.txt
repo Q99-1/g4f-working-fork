@@ -1,2 +1,2 @@
 <think>
-Alright, so I'm trying to figure out how to respond when someone asks if I'm working and to reply with 'Yes' if I can. The user's initial message was in Chinese, but the response was in English. I need
+Alright, so I need to figure out how to respond to the user's message. They said, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, okay, they're checking if I'm operational
