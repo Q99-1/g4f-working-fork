@@ -1,4 +1,4 @@
 <think>
-Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." So they're checking if I'm functional. I should confirm that I can help them.
+Okay, so I have this math problem here: A farmer wants to build a rectangular pen with an area of 20 square meters. He wants to use the least amount of fencing possible. What should the shape of the pen be?
 
-I need to keep it simple and
+Alright

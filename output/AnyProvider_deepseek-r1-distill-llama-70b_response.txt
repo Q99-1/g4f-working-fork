@@ -1,3 +1,2 @@
 <think>
-Alright, someone just asked me, "Hello, are you working? Reply with 'Yes' if you can respond." So, I need to figure out the best way to respond to that. Let me break this down step by step.
-
+Okay, so I need to figure out how to solve this problem: 4y squared minus 96y minus 305 equals zero. Hmm, it's a quadratic equation, so I remember that quadratic equations are of the form ax squared

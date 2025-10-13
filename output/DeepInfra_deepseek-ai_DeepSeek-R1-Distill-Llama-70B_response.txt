@@ -1,2 +1,2 @@
 <think>
-Okay, the user just asked me to respond with 'Yes' if I'm working. I should keep my reply simple and clear. I'll go with 'Yes' and let them know I'm ready to help. That should cover it
+Okay, the user just asked me if I'm working and to reply 'Yes' if I can respond. They specified to respond only with that. So I should just say 'Yes' without any extra text. I need to make sure
