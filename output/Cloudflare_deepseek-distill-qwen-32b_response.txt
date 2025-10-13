@@ -1,2 +1,2 @@
 <think>
-Alright, so the user just asked me to reply with 'Yes' if I can respond. They started with "Hello, are you working?" and then gave specific instructions. I need to make sure I follow their request accurately. Since they
+Okay, so I need to figure out how to respond to the user's query. The user started with "You are a helpful assistant" and then asked, "Hello, are you working? Reply with 'Yes' if you can respond
