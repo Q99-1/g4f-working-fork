@@ -1,4 +1,2 @@
 <think>
-Okay, the user sent a message asking, Hello, are you working? Reply with 'Yes' if you can respond.
-
-First, I need to understand the user's request. They want confirmation that I am active and able to respond.
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to check if I can reply. According to the instructions, if I can respond, I should say 'Yes'.

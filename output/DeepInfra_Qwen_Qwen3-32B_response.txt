@@ -1,4 +1,4 @@
 <think>
-Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to handle this.
 
-First, they're asking if I'm working, which is probably a way to check
+First, they want a confirmation that I'm working. The direct instruction is
