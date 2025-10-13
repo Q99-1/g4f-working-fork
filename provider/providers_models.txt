@@ -602,7 +602,7 @@ Provider: HuggingFaceAPI
 ------------------------------
 URL: https://api-inference.huggingface.com
 Label: HuggingFace (Text Generation)
-Model Count: 187
+Model Count: 189
 Models:
  - zai-org/GLM-4.6
  - deepseek-ai/DeepSeek-V3.2-Exp
@@ -626,12 +626,12 @@ Models:
  - zai-org/GLM-4.5-Air
  - Qwen/Qwen3-30B-A3B-Instruct-2507
  - Qwen/Qwen3-4B-Thinking-2507
+ - Qwen/Qwen2.5-7B-Instruct
  - meta-llama/Llama-3.2-3B-Instruct
  - google/gemma-3-27b-it
  - swiss-ai/Apertus-8B-Instruct-2509
  - Qwen/Qwen3-Next-80B-A3B-Thinking
  - mistralai/Mistral-7B-Instruct-v0.2
- - Qwen/Qwen2.5-7B-Instruct
  - meta-llama/Llama-3.3-70B-Instruct
  - meta-llama/Llama-4-Scout-17B-16E-Instruct
  - moonshotai/Kimi-K2-Instruct
@@ -677,6 +677,7 @@ Models:
  - Qwen/Qwen2.5-72B-Instruct
  - Qwen/Qwen2.5-Math-1.5B
  - Qwen/Qwen2.5-32B-Instruct
+ - Qwen/Qwen2.5-Coder-7B-Instruct
  - Qwen/Qwen2.5-1.5B-Instruct
  - google/gemma-2-2b-jpn-it
  - CohereLabs/aya-expanse-8b
@@ -718,9 +719,9 @@ Models:
  - arcee-ai/Llama-3.1-SuperNova-Lite
  - Qwen/Qwen2.5-7B
  - Qwen/Qwen2.5-Coder-7B
- - Qwen/Qwen2.5-Coder-7B-Instruct
  - Qwen/Qwen2.5-Coder-1.5B
  - arcee-ai/SuperNova-Medius
+ - HumanLLMs/Human-Like-Mistral-Nemo-Instruct-2407
  - huihui-ai/Qwen2.5-14B-Instruct-abliterated-v2
  - Kortix/FastApply-7B-v1.0
  - Qwen/Qwen2.5-Coder-14B-Instruct
@@ -770,6 +771,7 @@ Models:
  - soob3123/GrayLine-Qwen3-8B
  - nvidia/AceReason-Nemotron-14B
  - open-thoughts/OpenThinker3-7B
+ - Unbabel/Tower-Plus-9B
  - moonshotai/Kimi-Dev-72B
  - SakanaAI/RLT-7B
  - baidu/ERNIE-4.5-0.3B-PT
@@ -798,7 +800,7 @@ Provider: HuggingFaceMedia
 ------------------------------
 URL: https://huggingface.co
 Label: HuggingFace
-Model Count: 264
+Model Count: 267
 Models:
  - Wan-AI/Wan2.2-T2V-A14B
  - Wan-AI/Wan2.2-T2V-A14B:fal-ai
@@ -840,8 +842,8 @@ Models:
  - stabilityai/stable-diffusion-xl-base-1.0:hf-inference
  - black-forest-labs/FLUX.1-schnell
  - black-forest-labs/FLUX.1-schnell:nebius
- - black-forest-labs/FLUX.1-schnell:fal-ai
  - black-forest-labs/FLUX.1-schnell:nscale
+ - black-forest-labs/FLUX.1-schnell:fal-ai
  - black-forest-labs/FLUX.1-schnell:together
  - black-forest-labs/FLUX.1-schnell:replicate
  - black-forest-labs/FLUX.1-schnell:hf-inference
@@ -869,12 +871,12 @@ Models:
  - stabilityai/stable-diffusion-3-medium:replicate
  - Kwai-Kolors/Kolors
  - Kwai-Kolors/Kolors:fal-ai
+ - fofr/sdxl-emoji
+ - fofr/sdxl-emoji:fal-ai
  - lichorosario/dott-qwen-image-lora
  - lichorosario/dott-qwen-image-lora:fal-ai
  - stabilityai/stable-diffusion-3-medium-diffusers
  - stabilityai/stable-diffusion-3-medium-diffusers:hf-inference
- - fofr/sdxl-emoji
- - fofr/sdxl-emoji:fal-ai
  - stabilityai/stable-diffusion-3.5-large-turbo
  - stabilityai/stable-diffusion-3.5-large-turbo:fal-ai
  - xey/sldr_flux_nsfw_v2-studio
@@ -885,6 +887,9 @@ Models:
  - Nishitbaria/Anime-style-flux-lora-Large:replicate
  - HiDream-ai/HiDream-I1-Full
  - HiDream-ai/HiDream-I1-Full:fal-ai
+ - RedbeardNZ/Flux.1-Dev-LoRA-HDR-Realism
+ - RedbeardNZ/Flux.1-Dev-LoRA-HDR-Realism:fal-ai
+ - RedbeardNZ/Flux.1-Dev-LoRA-HDR-Realism:replicate
  - flymy-ai/qwen-image-anime-irl-lora
  - flymy-ai/qwen-image-anime-irl-lora:fal-ai
  - lichorosario/rtmi-qwen-image-lora
@@ -1001,9 +1006,6 @@ Models:
  - Keltezaa/Ultra_High_Detailed_Realistic_Photography
  - Keltezaa/Ultra_High_Detailed_Realistic_Photography:fal-ai
  - Keltezaa/Ultra_High_Detailed_Realistic_Photography:replicate
- - RedbeardNZ/Flux.1-Dev-LoRA-HDR-Realism
- - RedbeardNZ/Flux.1-Dev-LoRA-HDR-Realism:fal-ai
- - RedbeardNZ/Flux.1-Dev-LoRA-HDR-Realism:replicate
  - TheRaf7/ultra-real-wan2.2
  - TheRaf7/ultra-real-wan2.2:fal-ai
  - Nesslovver/P_or_n_conceptz
@@ -1055,12 +1057,15 @@ Models:
  - CultriX/flux-nsfw-highress
  - CultriX/flux-nsfw-highress:fal-ai
  - CultriX/flux-nsfw-highress:replicate
- - CultriX/Flux-Busty-LoRA
- - CultriX/Flux-Busty-LoRA:fal-ai
- - CultriX/Flux-Busty-LoRA:replicate
  - Keltezaa/NSFW_MASTER_FLUX
  - Keltezaa/NSFW_MASTER_FLUX:fal-ai
  - Keltezaa/NSFW_MASTER_FLUX:replicate
+ - CultriX/Flux-Busty-LoRA
+ - CultriX/Flux-Busty-LoRA:fal-ai
+ - CultriX/Flux-Busty-LoRA:replicate
+ - lustlyai/Flux_Lustly.ai_Uncensored_nsfw_v1
+ - lustlyai/Flux_Lustly.ai_Uncensored_nsfw_v1:fal-ai
+ - lustlyai/Flux_Lustly.ai_Uncensored_nsfw_v1:replicate
  - kp-forks/Flux-uncensored
  - kp-forks/Flux-uncensored:fal-ai
  - kp-forks/Flux-uncensored:replicate
@@ -2634,13 +2639,13 @@ Label: Qwen Qwen-3
 Model Count: 8
 Models:
  - qwen-3-32b
+ - qwen-3-30b-a3b
+ - qwen-3-4b
  - qwen-3-14b
+ - qwen-3-1.7b
  - qwen-3-0.6b
  - qwen-3-8b
  - qwen-3-235b
- - qwen-3-4b
- - qwen-3-30b-a3b
- - qwen-3-1.7b
 
 ==================================================
 

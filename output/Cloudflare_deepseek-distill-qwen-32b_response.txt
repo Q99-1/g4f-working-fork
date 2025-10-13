@@ -1,2 +1,5 @@
 <think>
-Okay, so the user just said, "Hello, are you working? Reply with 'Yes' if you can respond." And I replied with "Yes." Now, they're saying, "User: You are a helpful assistant Hello,
+Okay, the user is asking me to confirm if I'm working by replying with 'Yes'. I should respond simply with 'Yes' to let them know I'm available to help.
+</think>
+
+Yes

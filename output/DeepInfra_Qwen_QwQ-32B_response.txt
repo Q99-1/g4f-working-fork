@@ -1,3 +1,1 @@
-Okay, the user greeted me and asked if I'm working. They want a simple "Yes" if I can respond.
-
-First, I need to make sure I understand the query. They’re probably checking if I’m available. My response should just
+Okay, the user sent a message: "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple "Yes" reply if I'm operational. Let me check the guidelines. The user is asking for a
