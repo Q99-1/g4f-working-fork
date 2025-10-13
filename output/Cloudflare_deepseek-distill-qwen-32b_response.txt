@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to respond to this user. They said, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." Hmm, let me break this down
+Okay, so the user is asking if I'm working and wants me to reply with 'Yes'. Let me break this down. They started with "You are a helpful assistant" which is a standard prompt. Then they greeted with "Hello

@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I am working and wants me to reply with 'Yes' if I can respond. Let me start by acknowledging their greeting. I need to confirm that I'm operational, so replying with "Yes"
+Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+
+First, they're asking if I'm working, which is probably a way to check

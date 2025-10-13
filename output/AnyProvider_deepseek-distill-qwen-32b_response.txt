@@ -1,4 +1,2 @@
 <think>
-Okay, so I need to figure out how to respond to the user's message. Let me read through the conversation again to understand the context.
-
-The user starts by saying, "You are a helpful assistant." Then they ask, "Hello
+Okay, so I need to figure out how to respond to the user's initial message. The user wrote, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." Then the assistant replied

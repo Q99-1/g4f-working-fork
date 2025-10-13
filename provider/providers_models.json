@@ -645,15 +645,14 @@
       "meta-llama/Llama-3.1-8B-Instruct",
       "dphn/Dolphin-Mistral-24B-Venice-Edition",
       "Qwen/Qwen3-4B-Instruct-2507",
-      "deepseek-ai/DeepSeek-R1",
       "Qwen/Qwen3-8B",
+      "deepseek-ai/DeepSeek-R1",
       "Qwen/Qwen3-Next-80B-A3B-Instruct",
       "meta-llama/Llama-3.1-8B",
-      "moonshotai/Kimi-K2-Instruct-0905",
       "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+      "moonshotai/Kimi-K2-Instruct-0905",
       "Kwaipilot/KAT-Dev",
       "Qwen/Qwen3-4B-Thinking-2507",
-      "zai-org/GLM-4.6-FP8",
       "zai-org/GLM-4.5-Air",
       "meta-llama/Llama-3.2-1B-Instruct",
       "Qwen/Qwen3-30B-A3B-Instruct-2507",
@@ -676,7 +675,7 @@
       "lightx2v/Qwen-Image-Lightning",
       "bageldotcom/paris"
     ],
-    "model_count": 37
+    "model_count": 36
   },
   "HuggingFaceAPI": {
     "provider_info": {
@@ -694,15 +693,14 @@
       "meta-llama/Llama-3.1-8B-Instruct",
       "dphn/Dolphin-Mistral-24B-Venice-Edition",
       "Qwen/Qwen3-4B-Instruct-2507",
-      "deepseek-ai/DeepSeek-R1",
       "Qwen/Qwen3-8B",
+      "deepseek-ai/DeepSeek-R1",
       "Qwen/Qwen3-Next-80B-A3B-Instruct",
-      "moonshotai/Kimi-K2-Instruct-0905",
       "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+      "moonshotai/Kimi-K2-Instruct-0905",
       "Kwaipilot/KAT-Dev",
       "Qwen/Qwen3-VL-235B-A22B-Thinking",
       "Qwen/Qwen3-4B-Thinking-2507",
-      "zai-org/GLM-4.6-FP8",
       "mistralai/Mistral-7B-Instruct-v0.3",
       "Qwen/Qwen2.5-VL-7B-Instruct",
       "zai-org/GLM-4.5-Air",
@@ -713,10 +711,10 @@
       "google/gemma-3-27b-it",
       "zai-org/GLM-4.5",
       "swiss-ai/Apertus-8B-Instruct-2509",
+      "mistralai/Mistral-7B-Instruct-v0.2",
       "meta-llama/Llama-3.3-70B-Instruct",
       "meta-llama/Llama-4-Scout-17B-16E-Instruct",
       "moonshotai/Kimi-K2-Instruct",
-      "mistralai/Mistral-7B-Instruct-v0.2",
       "Qwen/Qwen2.5-7B-Instruct",
       "meta-llama/Llama-3.2-3B-Instruct",
       "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
@@ -726,9 +724,9 @@
       "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
       "google/gemma-3-12b-it",
       "meta-llama/Llama-4-Maverick-17B-128E-Instruct",
+      "Qwen/Qwen3-32B",
       "HuggingFaceTB/SmolLM3-3B",
       "zai-org/GLM-4.5V",
-      "Qwen/Qwen3-32B",
       "Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1",
       "zai-org/GLM-4.5-Air-FP8",
       "meta-llama/Meta-Llama-3-8B-Instruct",
@@ -740,6 +738,7 @@
       "Qwen/Qwen3-235B-A22B-Instruct-2507",
       "Qwen/Qwen3-Coder-480B-A35B-Instruct",
       "Qwen/Qwen3-30B-A3B-Thinking-2507",
+      "deepseek-ai/DeepSeek-V3.1",
       "swiss-ai/Apertus-70B-Instruct-2509",
       "deepseek-ai/DeepSeek-V3.1-Terminus",
       "SeaLLMs/SeaLLMs-v3-7B-Chat",
@@ -776,7 +775,6 @@
       "zai-org/GLM-4.1V-9B-Thinking",
       "zai-org/GLM-4.5V-FP8",
       "NousResearch/Hermes-4-70B",
-      "deepseek-ai/DeepSeek-V3.1",
       "CohereLabs/command-a-translate-08-2025",
       "HuggingFaceH4/zephyr-7b-alpha",
       "ceadar-ie/FinanceConnect-13B",
@@ -876,7 +874,7 @@
       "ReadyArt/L3.3-The-Omega-Directive-70B-Unslop-v2.0",
       "google/gemma-3-27b-it"
     ],
-    "model_count": 188
+    "model_count": 187
   },
   "HuggingFaceMedia": {
     "provider_info": {
@@ -952,7 +950,6 @@
       "tencent/HunyuanImage-2.1:fal-ai",
       "tencent/HunyuanImage-2.1:replicate",
       "stabilityai/stable-diffusion-3-medium",
-      "stabilityai/stable-diffusion-3-medium:fal-ai",
       "stabilityai/stable-diffusion-3-medium:replicate",
       "Kwai-Kolors/Kolors",
       "Kwai-Kolors/Kolors:fal-ai",
@@ -986,8 +983,6 @@
       "ntc-ai/SDXL-LoRA-slider.comic-portrait:fal-ai",
       "dog-god/texture-synthesis-sdxl-lora",
       "dog-god/texture-synthesis-sdxl-lora:fal-ai",
-      "playgroundai/playground-v2.5-1024px-aesthetic",
-      "playgroundai/playground-v2.5-1024px-aesthetic:replicate",
       "ByteDance/SDXL-Lightning",
       "ByteDance/SDXL-Lightning:fal-ai",
       "ByteDance/SDXL-Lightning:replicate",
@@ -1175,7 +1170,7 @@
       "kp-forks/Flux-uncensored:fal-ai",
       "kp-forks/Flux-uncensored:replicate"
     ],
-    "model_count": 287
+    "model_count": 284
   },
   "HuggingSpace": {
     "provider_info": {
@@ -2835,14 +2830,14 @@
       "label": "Qwen Qwen-3"
     },
     "models": [
-      "qwen-3-1.7b",
-      "qwen-3-0.6b",
-      "qwen-3-235b",
-      "qwen-3-30b-a3b",
-      "qwen-3-8b",
-      "qwen-3-32b",
       "qwen-3-4b",
-      "qwen-3-14b"
+      "qwen-3-32b",
+      "qwen-3-235b",
+      "qwen-3-8b",
+      "qwen-3-0.6b",
+      "qwen-3-1.7b",
+      "qwen-3-14b",
+      "qwen-3-30b-a3b"
     ],
     "model_count": 8
   },
