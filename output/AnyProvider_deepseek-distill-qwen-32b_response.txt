@@ -1,2 +1,4 @@
 <think>
-Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond with 'Yes' to confirm I'm operational. Keeping it simple and straightforward is key here. No extra
+Okay, so I need to figure out how to make a simple calculator using Python. The user wants it to perform addition, subtraction, multiplication, and division. Hmm, let's break this down step by step.
+
+First, I should think

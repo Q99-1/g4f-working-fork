@@ -1,3 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. First, I need to confirm their request. They probably want a quick confirmation that I'm active and able to communicate.
-
+Okay, the user said, Hello, are you working? Reply with 'Yes' if you can respond. Hmm, they're checking if I'm active. Let me confirm. Yes, I can respond. But the instruction is to reply
