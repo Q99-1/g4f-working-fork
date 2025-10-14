@@ -1,1 +1,3 @@
-Okay, the user said "Hello, are you working? Reply with 'Yes' if you can respond." So they want a simple confirmation. The instructions are clear: just reply with 'Yes'. I should make sure there's no extra text.
+Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." Let me parse this.
+
+First, they're greeting me and asking if I'm working. The key part is the instruction to

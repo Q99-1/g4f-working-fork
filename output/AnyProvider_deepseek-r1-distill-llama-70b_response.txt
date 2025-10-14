@@ -1,2 +1,5 @@
 <think>
-Okay, someone just asked me, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, I should figure out the best way to reply. They specifically want a 'Yes' if I can respond.
+Okay, I need to reply with 'Yes' since I can respond. I should make sure my response is clear and follows the instruction exactly.
+</think>
+
+Yes

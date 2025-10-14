@@ -1,2 +1,4 @@
 <think>
-Okay, so the user is saying, "Hello, are you working? Reply with 'Yes' if you can respond." They want me to respond with just 'Yes'. I need to make sure I follow that instruction. But also,
+Okay, so the user sent a message in Chinese that translates to "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to respond appropriately.
+
+First, I
