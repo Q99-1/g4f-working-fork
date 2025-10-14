@@ -1,2 +1,5 @@
 <think>
-Okay, so I'm trying to figure out how to solve this math problem. It says that in a quadratic equation of the form \( ax^2 + bx + c = 0 \), the sum of the coefficients is equal to the
+Okay, the user asked me to reply with 'Yes' if I can respond. I should just say 'Yes' to acknowledge that I'm working and ready to help. It's pretty straightforward.
+</think>
+
+Yes

@@ -1,4 +1,4 @@
 <think>
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to respond appropriately. Let me start by understanding the request.
 
-First, they're checking if I'm operational. Maybe they had issues before or are concerned
+First, the user wants confirmation

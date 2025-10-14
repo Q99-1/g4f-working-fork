@@ -1,2 +1,2 @@
 <think>
-Alright, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." and I responded by saying "Hello! Yes, I can respond. How can I assist you today?" Now I'm
+Okay, so I need to figure out how to solve the problem where the user initially sent a greeting and then after a while, sent another message. The assistant took a while to respond, and the user is asking if it's working.
