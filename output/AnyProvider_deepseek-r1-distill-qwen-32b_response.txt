@@ -1,2 +1,2 @@
 <think>
-Okay, so the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, that's interesting. I need to figure out what exactly they're looking for here. Maybe they're checking
+Okay, the user just said hello and asked if I'm working, and they want me to reply with 'Yes' if I can respond. Hmm, seems like they're checking if I'm functional. I should keep it simple and clear
