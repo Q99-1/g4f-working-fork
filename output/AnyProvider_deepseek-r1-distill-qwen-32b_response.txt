@@ -1,4 +1,2 @@
 <think>
-Okay, so I need to figure out why the assistant is replying 'Yes' to the user's initial message. Let me start by understanding the problem.
-
-The user said: "Hello, are you working? Reply with 'Yes'
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond appropriately. They want a simple 'Yes' to confirm I'm functional. I should keep it brief and

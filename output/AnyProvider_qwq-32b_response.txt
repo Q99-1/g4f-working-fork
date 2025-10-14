@@ -1,1 +1,1 @@
-Okay, the user sent "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation. I should just reply with "Yes" as instructed. No need for any extra text. Let me make sure
+Yes

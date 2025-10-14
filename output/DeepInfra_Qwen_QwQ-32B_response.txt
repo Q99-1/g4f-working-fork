@@ -1,3 +1,1 @@
-Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
-
-First, they're greeting me and asking if I'm working. The key part is the instruction to reply
+Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple 'Yes' if I'm able to answer. Let me check the guidelines. The user is probably testing if the

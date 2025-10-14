@@ -1,0 +1,4 @@
+<think>
+Okay, so I need to figure out how to respond when the user just says "Yes" after my initial greeting. Let me think about this step by step. 
+
+First, the user greeted me with "Hello, are you working?
