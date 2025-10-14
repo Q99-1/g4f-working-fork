@@ -1,5 +1,2 @@
 <think>
-Okay, the user asked me to reply with 'Yes' if I can respond. I should just say 'Yes' to acknowledge that I'm working and ready to help. It's pretty straightforward.
-</think>
-
-Yes
+Okay, so I'm trying to figure out how to get my WiFi working again. I was in the middle of something when it just stopped. First, I'm a bit confused because it was working fine before, and I didn't change

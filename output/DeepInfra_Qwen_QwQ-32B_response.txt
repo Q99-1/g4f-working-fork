@@ -1,3 +1,1 @@
-Okay, the user sent a message: "Hello, are you working? Reply with 'Yes' if you can respond." They want me to confirm if I'm operational by replying with just "Yes".
-
-First, I need to understand the query
+Okay, the user sent a message: "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple "Yes" if I can reply. Let me check the guidelines. The user is asking for a confirmation

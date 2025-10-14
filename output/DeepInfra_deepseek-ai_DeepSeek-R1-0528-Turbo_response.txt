@@ -1,4 +1,6 @@
 <think>
-Hmm, the user just asked if I'm working and wants a simple 'Yes' reply if I can respond. 
-
-Okay let me break this down. The query is very straightforward - they're checking my availability status. The phrasing feels
+We are being asked to reply with 'Yes' if we can respond.
+ Since we are an AI assistant and currently active, we can respond.
+ Therefore, we will simply reply with 'Yes'.
+</think>
+Yes

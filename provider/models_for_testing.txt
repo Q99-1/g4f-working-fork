@@ -273,7 +273,6 @@ HuggingFace|microsoft/Phi-3.5-mini-instruct
 HuggingFace|black-forest-labs/FLUX.1-dev
 HuggingFace|black-forest-labs/FLUX.1-schnell
 HuggingFace|Phr00t/Qwen-Image-Edit-Rapid-AIO
-HuggingFace|ByteDance/FaceCLIP
 HuggingFace|tencent/HunyuanImage-3.0
 HuggingFace|lightx2v/Qwen-Image-Lightning
 HuggingFace|stabilityai/stable-diffusion-xl-base-1.0
@@ -303,10 +302,10 @@ HuggingFaceAPI|meta-llama/Llama-3.3-70B-Instruct
 HuggingFaceAPI|meta-llama/Llama-4-Scout-17B-16E-Instruct
 HuggingFaceAPI|Qwen/Qwen3-VL-235B-A22B-Instruct
 HuggingFaceAPI|zai-org/GLM-4.5-Air
+HuggingFaceAPI|HuggingFaceTB/SmolLM3-3B
 HuggingFaceAPI|mistralai/Mistral-7B-Instruct-v0.2
 HuggingFaceAPI|Qwen/Qwen2.5-7B-Instruct
 HuggingFaceAPI|google/gemma-3-27b-it
-HuggingFaceAPI|HuggingFaceTB/SmolLM3-3B
 HuggingFaceAPI|moonshotai/Kimi-K2-Instruct
 HuggingFaceAPI|zai-org/GLM-4.5
 HuggingFaceAPI|meta-llama/Meta-Llama-3-8B-Instruct
@@ -342,9 +341,11 @@ HuggingFaceAPI|deepseek-ai/DeepSeek-R1-Distill-Llama-8B
 HuggingFaceAPI|Qwen/Qwen2.5-VL-72B-Instruct
 HuggingFaceAPI|Qwen/QwQ-32B
 HuggingFaceAPI|deepseek-ai/DeepSeek-V3-0324
+HuggingFaceAPI|deepseek-ai/DeepSeek-R1-0528-Qwen3-8B
 HuggingFaceAPI|swiss-ai/Apertus-70B-Instruct-2509
 HuggingFaceAPI|MLP-KTLim/llama-3-Korean-Bllossom-8B
 HuggingFaceAPI|mlabonne/NeuralDaredevil-8B-abliterated
+HuggingFaceAPI|Sao10K/L3-70B-Euryale-v2.1
 HuggingFaceAPI|meta-llama/Llama-3.1-70B-Instruct
 HuggingFaceAPI|NousResearch/Hermes-3-Llama-3.1-8B
 HuggingFaceAPI|Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2
@@ -361,7 +362,6 @@ HuggingFaceAPI|huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2
 HuggingFaceAPI|nvidia/Llama-3.1-Nemotron-Nano-8B-v1
 HuggingFaceAPI|microsoft/NextCoder-32B
 HuggingFaceAPI|Intelligent-Internet/II-Medical-8B
-HuggingFaceAPI|deepseek-ai/DeepSeek-R1-0528-Qwen3-8B
 HuggingFaceAPI|katanemo/Arch-Router-1.5B
 HuggingFaceAPI|kyx0r/Neona-12B
 HuggingFaceAPI|zai-org/GLM-4.1V-9B-Thinking
@@ -382,7 +382,6 @@ HuggingFaceAPI|defog/llama-3-sqlcoder-8b
 HuggingFaceAPI|failspy/Meta-Llama-3-70B-Instruct-abliterated-v3.5
 HuggingFaceAPI|Qwen/Qwen2-7B-Instruct
 HuggingFaceAPI|bosonai/Higgs-Llama-3-70B
-HuggingFaceAPI|Sao10K/L3-70B-Euryale-v2.1
 HuggingFaceAPI|google/gemma-2-9b-it
 HuggingFaceAPI|m42-health/Llama3-Med42-70B
 HuggingFaceAPI|IlyaGusev/gemma-2-9b-it-abliterated
@@ -396,6 +395,7 @@ HuggingFaceAPI|google/gemma-2-2b-jpn-it
 HuggingFaceAPI|arcee-ai/SuperNova-Medius
 HuggingFaceAPI|huihui-ai/Qwen2.5-14B-Instruct-abliterated-v2
 HuggingFaceAPI|Kortix/FastApply-7B-v1.0
+HuggingFaceAPI|CohereLabs/aya-expanse-32b
 HuggingFaceAPI|gajesh/llama-3-2-1b-instruct-eigentuned
 HuggingFaceAPI|Nexusflow/Athene-V2-Chat
 HuggingFaceAPI|aisingapore/Llama-SEA-LION-v3-8B-IT
@@ -408,6 +408,7 @@ HuggingFaceAPI|bespokelabs/Bespoke-Stratos-7B
 HuggingFaceAPI|AtlaAI/Selene-1-Mini-Llama-3.1-8B
 HuggingFaceAPI|Qwen/Qwen2.5-14B-Instruct-1M
 HuggingFaceAPI|mistralai/Mistral-Small-24B-Instruct-2501
+HuggingFaceAPI|huihui-ai/Mistral-Small-24B-Instruct-2501-abliterated
 HuggingFaceAPI|PocketDoc/Dans-PersonalityEngine-V1.2.0-24b
 HuggingFaceAPI|Xiaojian9992024/Qwen2.5-Dyanka-7B-Preview
 HuggingFaceAPI|yamatazen/EtherealAurora-12B
@@ -484,7 +485,6 @@ HuggingFaceMedia|genmo/mochi-1-preview:fal-ai
 HuggingFaceMedia|Lightricks/LTX-Video-0.9.7-distilled
 HuggingFaceMedia|Lightricks/LTX-Video-0.9.7-distilled:fal-ai
 HuggingFaceMedia|tencent/HunyuanImage-3.0
-HuggingFaceMedia|tencent/HunyuanImage-3.0:fal-ai
 HuggingFaceMedia|tencent/HunyuanImage-3.0:replicate
 HuggingFaceMedia|black-forest-labs/FLUX.1-dev
 HuggingFaceMedia|black-forest-labs/FLUX.1-dev:nebius
@@ -512,7 +512,6 @@ HuggingFaceMedia|Danrisi/Qwen-image_SamsungCam_UltraReal
 HuggingFaceMedia|Danrisi/Qwen-image_SamsungCam_UltraReal:fal-ai
 HuggingFaceMedia|ByteDance/Hyper-SD
 HuggingFaceMedia|ByteDance/Hyper-SD:fal-ai
-HuggingFaceMedia|ByteDance/Hyper-SD:replicate
 HuggingFaceMedia|ByteDance/Hyper-SD:replicate
 HuggingFaceMedia|black-forest-labs/FLUX.1-Krea-dev
 HuggingFaceMedia|black-forest-labs/FLUX.1-Krea-dev:fal-ai
@@ -557,6 +556,8 @@ HuggingFaceMedia|RedbeardNZ/Flux.1-Dev-LoRA-HDR-Realism:fal-ai
 HuggingFaceMedia|RedbeardNZ/Flux.1-Dev-LoRA-HDR-Realism:replicate
 HuggingFaceMedia|lichorosario/rtmi-qwen-image-lora
 HuggingFaceMedia|lichorosario/rtmi-qwen-image-lora:fal-ai
+HuggingFaceMedia|olesheva/DavidLynch-Qwen-LoRA
+HuggingFaceMedia|olesheva/DavidLynch-Qwen-LoRA:fal-ai
 HuggingFaceMedia|starsfriday/Qwen-Image-NSFW
 HuggingFaceMedia|starsfriday/Qwen-Image-NSFW:fal-ai
 HuggingFaceMedia|ntc-ai/SDXL-LoRA-slider.comic-portrait
@@ -1143,10 +1144,12 @@ OpenRouter|openai/o1-mini
 OpenRouter|openai/o1-mini-2024-09-12
 OpenRouter|openai/o1-pro
 OpenRouter|openai/o3
+OpenRouter|openai/o3-deep-research
 OpenRouter|openai/o3-mini
 OpenRouter|openai/o3-mini-high
 OpenRouter|openai/o3-pro
 OpenRouter|openai/o4-mini
+OpenRouter|openai/o4-mini-deep-research
 OpenRouter|openai/o4-mini-high
 OpenRouter|opengvlab/internvl3-78b
 OpenRouter|openrouter/auto
@@ -1983,14 +1986,14 @@ Qwen_Qwen_2_5|qwen-2.5
 Qwen_Qwen_2_5M|qwen-2.5-1m
 Qwen_Qwen_2_5_Max|qwen-2.5-max
 Qwen_Qwen_2_72B|qwen-2-72b
-Qwen_Qwen_3|qwen-3-32b
-Qwen_Qwen_3|qwen-3-8b
-Qwen_Qwen_3|qwen-3-30b-a3b
-Qwen_Qwen_3|qwen-3-1.7b
 Qwen_Qwen_3|qwen-3-4b
-Qwen_Qwen_3|qwen-3-0.6b
-Qwen_Qwen_3|qwen-3-14b
+Qwen_Qwen_3|qwen-3-32b
+Qwen_Qwen_3|qwen-3-30b-a3b
 Qwen_Qwen_3|qwen-3-235b
+Qwen_Qwen_3|qwen-3-8b
+Qwen_Qwen_3|qwen-3-0.6b
+Qwen_Qwen_3|qwen-3-1.7b
+Qwen_Qwen_3|qwen-3-14b
 Replicate|meta/meta-llama-3-70b-instruct
 StabilityAI_SD35Large|sd-3.5-large
 TeachAnything|gemma

@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve the problem where the user initially sent a greeting and then after a while, sent another message. The assistant took a while to respond, and the user is asking if it's working.
+Okay, so I need to figure out how to roast coffee beans at home. I've heard that roasting your own coffee can give you better flavor and more control over the final product. But where do I start? Let me think about
