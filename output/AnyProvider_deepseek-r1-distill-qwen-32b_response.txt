@@ -1,4 +1,4 @@
 <think>
-Okay, the user greeted me and asked if I'm working. They want a simple 'Yes' if I can respond. I should keep it friendly and concise.
+Okay, so I need to figure out why the assistant is replying 'Yes' to the user's initial message. Let me start by understanding the problem.
 
-I'll reply with a 'Yes' as requested. Maybe add a smile
+The user said: "Hello, are you working? Reply with 'Yes'

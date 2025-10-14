@@ -1,3 +1,1 @@
-Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to handle this.
-
-First, I need to confirm if I can respond. But wait, the user specifically said
+Okay, the user sent "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation. I should just reply with "Yes" as instructed. No need for any extra text. Let me make sure
