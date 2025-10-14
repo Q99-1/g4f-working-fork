@@ -1,1 +1,2 @@
-Yes, I'm up and running! How can I help you today?
+The model does not exist in our api at the moment.
+To request a model please join: https://discord.gg/9g5wkVTn8s
