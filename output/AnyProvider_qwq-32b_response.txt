@@ -1,1 +1,1 @@
-Okay, the user just sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation that I'm online and functioning. The user probably wants to make sure I'm available before sending
+Yes

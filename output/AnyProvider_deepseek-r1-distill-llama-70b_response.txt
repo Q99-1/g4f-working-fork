@@ -1,5 +1,2 @@
 <think>
-Okay, I need to reply with 'Yes' since I can respond. I should make sure my response is clear and follows the instruction exactly.
-</think>
-
-Yes
+Alright, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." and I responded by saying "Hello! Yes, I can respond. How can I assist you today?" Now I'm

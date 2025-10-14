@@ -1,2 +1,2 @@
 <think>
-Alright, so I need to figure out how to solve this problem: Find all integer solutions for the equation \( x^2 + y^2 = 16 \) where \( x \) and \( y \) are integers. Hmm
+Okay, so I'm trying to figure out how to solve this math problem. It says that in a quadratic equation of the form \( ax^2 + bx + c = 0 \), the sum of the coefficients is equal to the
