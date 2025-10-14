@@ -1,2 +1,0 @@
-<think>
-Okay, the user is asking if I'm working. Let me check the instructions. They said to reply with 'Yes' if I can respond. But the previous example shows the assistant replied with a longer message, not just 'Yes'.

@@ -1,2 +1,2 @@
 <think>
-Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out the appropriate way to respond. The user is probably checking if I'm functioning correctly and wants a straightforward
+Okay, the user said "Hello, are you working? Reply with 'Yes' if you can respond." Let me check. They're probably testing if I'm awake or available. The instruction is to reply with 'Yes' if I
