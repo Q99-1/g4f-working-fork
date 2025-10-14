@@ -1,2 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond appropriately. They want a simple 'Yes' to confirm I'm functional. I should keep it brief and
+Okay, so I need to figure out how a transistor works. I've heard about transistors in my electronics class, but I'm still a bit confused about the details. Let me start by recalling what I know. A transistor is

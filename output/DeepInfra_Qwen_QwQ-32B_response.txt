@@ -1,1 +1,1 @@
-Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple 'Yes' if I'm able to answer. Let me check the guidelines. The user is probably testing if the
+Okay, the user sent a message asking "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple "Yes" reply if I can respond. Let me check the guidelines. The user specified to reply only
