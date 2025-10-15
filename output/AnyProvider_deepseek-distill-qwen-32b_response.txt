@@ -1,2 +1,2 @@
 <think>
-Okay, so the user just sent a message saying, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." And I replied with "Yes." Now, they're asking me to write
+Okay, the user is greeting me and asking if I'm working. They want a response with just 'Yes'. I should make sure my reply is concise and meets their request. I'll simply say 'Yes' to confirm I'm available

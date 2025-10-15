@@ -1,0 +1,2 @@
+<think>
+Alright, so I've got this problem to solve, and I'm not entirely sure where to start. Let me see if I can break it down step by step. The problem is about identifying whether a statement is supported in all versions of
