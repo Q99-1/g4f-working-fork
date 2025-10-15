@@ -1,2 +1,2 @@
 <think>
-Okay, so the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." and I responded with "Yes". Now, the user is asking me to think through what just happened and then
+Alright, the user is asking if I'm working and wants a 'Yes' if I can respond. I should keep it simple and clear. I'll just say 'Yes' to confirm I'm operational. No need for extra information unless

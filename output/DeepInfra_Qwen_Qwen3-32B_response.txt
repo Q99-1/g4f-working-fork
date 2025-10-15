@@ -1,2 +1,2 @@
 <think>
-Okay, the user says, “Hello, are you working? Reply with 'Yes' if you can respond.” This is a simple question that likely tests whether the AI is operational and able to respond normally. First, I need to confirm
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure I understand their request correctly first. They want a confirmation that I can respond, and specifically mentioned rep

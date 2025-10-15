@@ -697,8 +697,8 @@
       "dphn/Dolphin-Mistral-24B-Venice-Edition",
       "Qwen/Qwen3-4B-Instruct-2507",
       "Qwen/Qwen3-Next-80B-A3B-Instruct",
-      "Qwen/Qwen2.5-VL-7B-Instruct",
       "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+      "Qwen/Qwen2.5-VL-7B-Instruct",
       "moonshotai/Kimi-K2-Instruct-0905",
       "mistralai/Mistral-7B-Instruct-v0.3",
       "meta-llama/Llama-3.2-1B-Instruct",
@@ -727,17 +727,18 @@
       "deepseek-ai/DeepSeek-V3.1-Terminus",
       "google/gemma-2-2b-it",
       "google/gemma-3-12b-it",
+      "Qwen/Qwen3-1.7B",
       "deepseek-ai/DeepSeek-R1-0528",
       "zai-org/GLM-4.5",
       "Qwen/Qwen3-Next-80B-A3B-Thinking",
       "meta-llama/Llama-4-Maverick-17B-128E-Instruct",
-      "Qwen/Qwen3-1.7B",
       "Qwen/Qwen3-14B",
       "PocketDoc/Dans-PersonalityEngine-V1.3.0-24b",
       "Qwen/Qwen3-235B-A22B-Instruct-2507",
       "Qwen/Qwen3-30B-A3B-Thinking-2507",
       "deepseek-ai/DeepSeek-V3",
       "jinaai/ReaderLM-v2",
+      "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
       "Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1",
       "zai-org/GLM-4.5-Air-FP8",
       "Qwen/Qwen3-235B-A22B-Thinking-2507",
@@ -749,7 +750,6 @@
       "Qwen/Qwen2.5-1.5B-Instruct",
       "HumanLLMs/Human-Like-Mistral-Nemo-Instruct-2407",
       "FallenMerick/MN-Violet-Lotus-12B",
-      "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
       "Qwen/Qwen2.5-VL-72B-Instruct",
       "Qwen/QwQ-32B",
       "deepseek-ai/DeepSeek-V3-0324",
@@ -958,7 +958,6 @@
       "lichorosario/panorama-qwen-image-lora:fal-ai",
       "ByteDance/SDXL-Lightning",
       "ByteDance/SDXL-Lightning:fal-ai",
-      "ByteDance/SDXL-Lightning:replicate",
       "stabilityai/stable-diffusion-3-medium",
       "stabilityai/stable-diffusion-3-medium:fal-ai",
       "stabilityai/stable-diffusion-3-medium:replicate",
@@ -1157,7 +1156,7 @@
       "kp-forks/Flux-uncensored:fal-ai",
       "kp-forks/Flux-uncensored:replicate"
     ],
-    "model_count": 272
+    "model_count": 271
   },
   "HuggingSpace": {
     "provider_info": {
@@ -2820,14 +2819,14 @@
       "label": "Qwen Qwen-3"
     },
     "models": [
-      "qwen-3-14b",
-      "qwen-3-0.6b",
-      "qwen-3-30b-a3b",
       "qwen-3-8b",
       "qwen-3-1.7b",
-      "qwen-3-4b",
+      "qwen-3-0.6b",
       "qwen-3-32b",
-      "qwen-3-235b"
+      "qwen-3-14b",
+      "qwen-3-4b",
+      "qwen-3-235b",
+      "qwen-3-30b-a3b"
     ],
     "model_count": 8
   },

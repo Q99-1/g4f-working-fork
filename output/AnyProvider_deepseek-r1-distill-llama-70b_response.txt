@@ -1,2 +1,4 @@
 <think>
-Okay, the user said "Yes," so they're working. Now I need to figure out how to respond. They started with a greeting and a question about whether I'm working, and they asked me to reply with 'Yes' if
+Alright, someone just asked me if I'm working and to reply with 'Yes'. They also mentioned to respond in English. So, first, I should acknowledge their greeting and confirm that I'm operational.
+
+I need to make sure my response
