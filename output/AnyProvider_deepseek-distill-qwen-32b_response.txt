@@ -1,2 +1,2 @@
 <think>
-Okay, the user is greeting me and asking if I'm working. They want a response with just 'Yes'. I should make sure my reply is concise and meets their request. I'll simply say 'Yes' to confirm I'm available
+Alright, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." They're checking if I'm functional. I need to confirm I'm available. So, I'll respond with "Yes."

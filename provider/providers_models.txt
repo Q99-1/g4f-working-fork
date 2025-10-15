@@ -556,7 +556,7 @@ Provider: HuggingFace
 ------------------------------
 URL: https://huggingface.co
 Label: None
-Model Count: 37
+Model Count: 38
 Models:
  - zai-org/GLM-4.6
  - deepseek-ai/DeepSeek-V3.2-Exp
@@ -579,6 +579,7 @@ Models:
  - zai-org/GLM-4.6-FP8
  - meta-llama/Llama-3.2-3B-Instruct
  - zai-org/GLM-4.5-Air
+ - meta-llama/Meta-Llama-3-8B-Instruct
  - meta-llama/Llama-3.2-11B-Vision-Instruct
  - Qwen/Qwen2-VL-7B-Instruct
  - CohereForAI/c4ai-command-r-plus-08-2024
@@ -602,7 +603,7 @@ Provider: HuggingFaceAPI
 ------------------------------
 URL: https://api-inference.huggingface.com
 Label: HuggingFace (Text Generation)
-Model Count: 181
+Model Count: 182
 Models:
  - zai-org/GLM-4.6
  - deepseek-ai/DeepSeek-V3.2-Exp
@@ -617,20 +618,20 @@ Models:
  - Qwen/Qwen3-30B-A3B-Instruct-2507
  - Qwen/Qwen3-Next-80B-A3B-Instruct
  - Kwaipilot/KAT-Dev
- - Qwen/Qwen2.5-VL-7B-Instruct
  - Qwen/Qwen3-VL-235B-A22B-Instruct
+ - Qwen/Qwen2.5-VL-7B-Instruct
  - mistralai/Mistral-7B-Instruct-v0.3
  - moonshotai/Kimi-K2-Instruct-0905
  - meta-llama/Llama-3.2-1B-Instruct
  - meta-llama/Llama-3.3-70B-Instruct
  - Qwen/Qwen3-4B-Thinking-2507
- - Qwen/Qwen3-VL-235B-A22B-Thinking
  - zai-org/GLM-4.6-FP8
+ - Qwen/Qwen3-VL-235B-A22B-Thinking
  - meta-llama/Llama-3.2-3B-Instruct
  - zai-org/GLM-4.5-Air
+ - meta-llama/Meta-Llama-3-8B-Instruct
  - meta-llama/Llama-4-Scout-17B-16E-Instruct
  - mistralai/Mistral-7B-Instruct-v0.2
- - meta-llama/Meta-Llama-3-8B-Instruct
  - Qwen/Qwen2.5-7B-Instruct
  - deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B
  - Qwen/Qwen3-1.7B
@@ -664,6 +665,7 @@ Models:
  - MLP-KTLim/llama-3-Korean-Bllossom-8B
  - meta-llama/Llama-3.1-70B-Instruct
  - meta-llama/Llama-Guard-3-8B
+ - inflatebot/MN-12B-Mag-Mell-R1
  - HumanLLMs/Human-Like-Mistral-Nemo-Instruct-2407
  - Qwen/Qwen2.5-VL-72B-Instruct
  - Qwen/QwQ-32B
@@ -676,7 +678,6 @@ Models:
  - SeaLLMs/SeaLLMs-v3-7B-Chat
  - NousResearch/Hermes-3-Llama-3.1-8B
  - Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2
- - inflatebot/MN-12B-Mag-Mell-R1
  - Qwen/Qwen2.5-Math-1.5B
  - Qwen/Qwen2.5-Coder-7B-Instruct
  - CohereLabs/aya-expanse-8b
@@ -752,6 +753,7 @@ Models:
  - INSAIT-Institute/MamayLM-Gemma-2-9B-IT-v0.1
  - meta-llama/Llama-Guard-4-12B
  - Qwen/Qwen3-235B-A22B
+ - Qwen/Qwen3-8B-Base
  - mlabonne/Qwen3-8B-abliterated
  - mlabonne/Qwen3-14B-abliterated
  - marin-community/marin-8b-instruct
@@ -792,15 +794,15 @@ Provider: HuggingFaceMedia
 ------------------------------
 URL: https://huggingface.co
 Label: HuggingFace
-Model Count: 272
+Model Count: 277
 Models:
  - Wan-AI/Wan2.2-T2V-A14B
  - Wan-AI/Wan2.2-T2V-A14B:fal-ai
  - Wan-AI/Wan2.2-T2V-A14B:replicate
- - Wan-AI/Wan2.2-TI2V-5B
- - Wan-AI/Wan2.2-TI2V-5B:replicate
  - akhaliq/sora-2
  - akhaliq/sora-2:fal-ai
+ - Wan-AI/Wan2.2-TI2V-5B
+ - Wan-AI/Wan2.2-TI2V-5B:replicate
  - tencent/HunyuanVideo
  - tencent/HunyuanVideo:fal-ai
  - genmo/mochi-1-preview
@@ -817,6 +819,9 @@ Models:
  - Wan-AI/Wan2.2-T2V-A14B-Diffusers:replicate
  - zai-org/CogVideoX-5b
  - zai-org/CogVideoX-5b:fal-ai
+ - tencent/HunyuanImage-3.0
+ - tencent/HunyuanImage-3.0:fal-ai
+ - tencent/HunyuanImage-3.0:replicate
  - black-forest-labs/FLUX.1-dev
  - black-forest-labs/FLUX.1-dev:nebius
  - black-forest-labs/FLUX.1-dev:fal-ai
@@ -854,7 +859,6 @@ Models:
  - ByteDance/Hyper-SD
  - ByteDance/Hyper-SD:fal-ai
  - ByteDance/Hyper-SD:replicate
- - ByteDance/Hyper-SD:replicate
  - Gourieff/Flux.1-Fashion-Enhancer-Lora
  - Gourieff/Flux.1-Fashion-Enhancer-Lora:fal-ai
  - Gourieff/Flux.1-Fashion-Enhancer-Lora:replicate
@@ -863,7 +867,7 @@ Models:
  - lichorosario/panorama-qwen-image-lora
  - lichorosario/panorama-qwen-image-lora:fal-ai
  - playgroundai/playground-v2.5-1024px-aesthetic
- - playgroundai/playground-v2.5-1024px-aesthetic:fal-ai
+ - playgroundai/playground-v2.5-1024px-aesthetic:replicate
  - Kwai-Kolors/Kolors
  - Kwai-Kolors/Kolors:fal-ai
  - stabilityai/stable-diffusion-3-medium-diffusers
@@ -883,6 +887,9 @@ Models:
  - RedbeardNZ/Flux.1-Dev-LoRA-HDR-Realism
  - RedbeardNZ/Flux.1-Dev-LoRA-HDR-Realism:fal-ai
  - RedbeardNZ/Flux.1-Dev-LoRA-HDR-Realism:replicate
+ - tencent/HunyuanImage-2.1
+ - tencent/HunyuanImage-2.1:fal-ai
+ - tencent/HunyuanImage-2.1:replicate
  - lichorosario/rtmi-qwen-image-lora
  - lichorosario/rtmi-qwen-image-lora:fal-ai
  - olesheva/DavidLynch-Qwen-LoRA
@@ -1345,10 +1352,11 @@ Provider: OIVSCodeSer2
 ------------------------------
 URL: https://oi-vscode-server-2.onrender.com
 Label: OI VSCode Server 2
-Model Count: 0
-Error: 500 Server Error: Internal Server Error for url: http://localhost:8081/api/OIVSCodeSer2/models
+Model Count: 3
 Models:
- No models available
+ - *
+ - custom/blackbox-base
+ - gpt-4o-mini
 
 ==================================================
 
@@ -1392,7 +1400,7 @@ Provider: OpenRouter
 ------------------------------
 URL: https://openrouter.ai
 Label: OpenRouter
-Model Count: 335
+Model Count: 336
 Models:
  - agentica-org/deepcoder-14b-preview
  - agentica-org/deepcoder-14b-preview:free
@@ -1619,6 +1627,7 @@ Models:
  - openai/gpt-5
  - openai/gpt-5-chat
  - openai/gpt-5-codex
+ - openai/gpt-5-image
  - openai/gpt-5-mini
  - openai/gpt-5-nano
  - openai/gpt-5-pro
@@ -1949,7 +1958,7 @@ Provider: PollinationsAI
 ------------------------------
 URL: https://pollinations.ai
 Label: Pollinations AI 🌸
-Model Count: 35
+Model Count: 36
 Models:
  - openai
  - evil
@@ -1972,6 +1981,7 @@ Models:
  - flux
  - turbo
  - kontext
+ - gptimage
  - openai-audio
  - alloy
  - echo
@@ -1993,11 +2003,12 @@ Provider: PollinationsImage
 ------------------------------
 URL: https://pollinations.ai
 Label: PollinationsImage
-Model Count: 3
+Model Count: 4
 Models:
  - flux
  - turbo
  - kontext
+ - gptimage
 
 ==================================================
 
@@ -2639,13 +2650,13 @@ URL: https://qwen-qwen3-demo.hf.space
 Label: Qwen Qwen-3
 Model Count: 8
 Models:
- - qwen-3-8b
- - qwen-3-235b
- - qwen-3-30b-a3b
  - qwen-3-32b
- - qwen-3-4b
+ - qwen-3-30b-a3b
+ - qwen-3-235b
  - qwen-3-14b
  - qwen-3-0.6b
+ - qwen-3-4b
+ - qwen-3-8b
  - qwen-3-1.7b
 
 ==================================================
