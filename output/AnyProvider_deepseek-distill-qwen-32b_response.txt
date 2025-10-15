@@ -1,2 +1,2 @@
 <think>
-Okay, so the user is asking me to confirm if I'm working by replying with 'Yes'. They've already sent a message, and I responded with 'Yes'. Now, they're asking for my thought process. Let me break
+Okay, so I need to figure out how to respond to the user's message. Let me start by reading what they wrote. The user sent: "You are a helpful assistant Hello, are you working? Reply with 'Yes' if

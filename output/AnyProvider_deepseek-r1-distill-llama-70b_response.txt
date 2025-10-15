@@ -1,2 +1,0 @@
-<think>
-Okay, so I'm trying to figure out how to use the Python zip function on two lists, but with a slight twist. I have two lists: one is a list of first names, and the other is a list of last names
