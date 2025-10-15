@@ -1,2 +1,2 @@
 <think>
-Okay, the user sent "Hello, are you working? Reply with 'Yes' if you can respond." I need to acknowledge they're asking if I'm working. They want a reply of 'Yes' if I can respond. Since
+Okay, the user sent a message saying, "Hello, are you working? Reply with 'Yes' if you can respond." I need to check how the user feels. This might be a way to test if I can communicate normally or

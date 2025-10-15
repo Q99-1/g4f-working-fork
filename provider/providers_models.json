@@ -640,16 +640,16 @@
     "models": [
       "zai-org/GLM-4.6",
       "deepseek-ai/DeepSeek-V3.2-Exp",
-      "openai/gpt-oss-120b",
       "openai/gpt-oss-20b",
+      "openai/gpt-oss-120b",
       "meta-llama/Llama-3.1-8B-Instruct",
       "Qwen/Qwen3-8B",
       "dphn/Dolphin-Mistral-24B-Venice-Edition",
       "Qwen/Qwen3-4B-Instruct-2507",
-      "Qwen/Qwen3-Next-80B-A3B-Instruct",
       "Qwen/Qwen3-Coder-30B-A3B-Instruct",
-      "Qwen/Qwen3-30B-A3B-Instruct-2507",
+      "Qwen/Qwen3-Next-80B-A3B-Instruct",
       "deepseek-ai/DeepSeek-R1",
+      "Qwen/Qwen3-30B-A3B-Instruct-2507",
       "Kwaipilot/KAT-Dev",
       "meta-llama/Llama-3.1-8B",
       "moonshotai/Kimi-K2-Instruct-0905",
@@ -690,26 +690,26 @@
     "models": [
       "zai-org/GLM-4.6",
       "deepseek-ai/DeepSeek-V3.2-Exp",
-      "openai/gpt-oss-120b",
       "openai/gpt-oss-20b",
+      "openai/gpt-oss-120b",
       "meta-llama/Llama-3.1-8B-Instruct",
       "Qwen/Qwen3-8B",
       "dphn/Dolphin-Mistral-24B-Venice-Edition",
       "Qwen/Qwen3-4B-Instruct-2507",
-      "Qwen/Qwen3-Next-80B-A3B-Instruct",
       "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+      "Qwen/Qwen3-Next-80B-A3B-Instruct",
+      "deepseek-ai/DeepSeek-R1",
       "Qwen/Qwen2.5-VL-7B-Instruct",
       "Qwen/Qwen3-30B-A3B-Instruct-2507",
-      "deepseek-ai/DeepSeek-R1",
-      "Kwaipilot/KAT-Dev",
       "Qwen/Qwen3-VL-235B-A22B-Instruct",
+      "Kwaipilot/KAT-Dev",
       "mistralai/Mistral-7B-Instruct-v0.3",
       "moonshotai/Kimi-K2-Instruct-0905",
       "meta-llama/Llama-3.2-1B-Instruct",
       "Qwen/Qwen3-4B-Thinking-2507",
+      "Qwen/Qwen3-VL-235B-A22B-Thinking",
       "meta-llama/Llama-3.2-3B-Instruct",
       "meta-llama/Llama-3.3-70B-Instruct",
-      "Qwen/Qwen3-VL-235B-A22B-Thinking",
       "zai-org/GLM-4.6-FP8",
       "meta-llama/Llama-4-Scout-17B-16E-Instruct",
       "zai-org/GLM-4.5-Air",
@@ -720,23 +720,23 @@
       "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
       "Qwen/Qwen3-32B",
       "moonshotai/Kimi-K2-Instruct",
+      "Qwen/Qwen3-Coder-480B-A35B-Instruct",
       "swiss-ai/Apertus-8B-Instruct-2509",
       "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
       "Qwen/Qwen3-1.7B",
       "Qwen/Qwen3-14B",
-      "Qwen/Qwen3-Coder-480B-A35B-Instruct",
       "google/gemma-2-2b-it",
       "google/gemma-3-27b-it",
       "google/gemma-3-12b-it",
       "meta-llama/Llama-4-Maverick-17B-128E-Instruct",
       "deepseek-ai/DeepSeek-R1-0528",
       "zai-org/GLM-4.5",
+      "Qwen/Qwen3-30B-A3B-Thinking-2507",
       "deepseek-ai/DeepSeek-V3.1-Terminus",
       "Qwen/Qwen2.5-1.5B-Instruct",
       "Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1",
       "PocketDoc/Dans-PersonalityEngine-V1.3.0-24b",
       "Qwen/Qwen3-235B-A22B-Instruct-2507",
-      "Qwen/Qwen3-30B-A3B-Thinking-2507",
       "deepseek-ai/DeepSeek-V3",
       "jinaai/ReaderLM-v2",
       "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
@@ -857,7 +857,6 @@
       "Tesslate/UIGEN-X-8B",
       "Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8",
       "arcee-ai/AFM-4.5B",
-      "baichuan-inc/Baichuan-M2-32B",
       "aisingapore/Gemma-SEA-LION-v4-27B-IT",
       "Retreatcost/KansenSakura-Zero-RP-12b",
       "sophosympatheia/Strawberrylemonade-L3-70B-v1.1",
@@ -872,7 +871,7 @@
       "ReadyArt/L3.3-The-Omega-Directive-70B-Unslop-v2.0",
       "google/gemma-3-27b-it"
     ],
-    "model_count": 183
+    "model_count": 182
   },
   "HuggingFaceMedia": {
     "provider_info": {
@@ -892,12 +891,12 @@
       "akhaliq/sora-2:fal-ai",
       "tencent/HunyuanVideo",
       "tencent/HunyuanVideo:fal-ai",
+      "genmo/mochi-1-preview",
+      "genmo/mochi-1-preview:fal-ai",
       "Wan-AI/Wan2.1-T2V-14B",
       "Wan-AI/Wan2.1-T2V-14B:novita",
       "Wan-AI/Wan2.1-T2V-14B:fal-ai",
       "Wan-AI/Wan2.1-T2V-14B:replicate",
-      "genmo/mochi-1-preview",
-      "genmo/mochi-1-preview:fal-ai",
       "Wan-AI/Wan2.1-T2V-1.3B",
       "Wan-AI/Wan2.1-T2V-1.3B:fal-ai",
       "Wan-AI/Wan2.1-T2V-1.3B:replicate",
@@ -939,14 +938,12 @@
       "ByteDance/Hyper-SD",
       "ByteDance/Hyper-SD:fal-ai",
       "ByteDance/Hyper-SD:replicate",
-      "ByteDance/Hyper-SD:replicate",
       "flymy-ai/qwen-image-realism-lora",
       "flymy-ai/qwen-image-realism-lora:fal-ai",
       "tencent/HunyuanImage-2.1",
       "tencent/HunyuanImage-2.1:fal-ai",
       "tencent/HunyuanImage-2.1:replicate",
       "ByteDance/SDXL-Lightning",
-      "ByteDance/SDXL-Lightning:fal-ai",
       "ByteDance/SDXL-Lightning:replicate",
       "stabilityai/stable-diffusion-3.5-medium",
       "stabilityai/stable-diffusion-3.5-medium:fal-ai",
@@ -982,6 +979,8 @@
       "lichorosario/rtmi-qwen-image-lora:fal-ai",
       "olesheva/DavidLynch-Qwen-LoRA",
       "olesheva/DavidLynch-Qwen-LoRA:fal-ai",
+      "starsfriday/Qwen-Image-NSFW",
+      "starsfriday/Qwen-Image-NSFW:fal-ai",
       "ntc-ai/SDXL-LoRA-slider.comic-portrait",
       "ntc-ai/SDXL-LoRA-slider.comic-portrait:fal-ai",
       "itzzdeep/youtube-thumbnails-sdxl-lora",
@@ -1090,8 +1089,6 @@
       "Nesslovver/P_or_n_conceptz:replicate",
       "flymy-ai/qwen-image-anime-irl-lora",
       "flymy-ai/qwen-image-anime-irl-lora:fal-ai",
-      "starsfriday/Qwen-Image-NSFW",
-      "starsfriday/Qwen-Image-NSFW:fal-ai",
       "Raelina/Raena-Qwen-Image",
       "Raelina/Raena-Qwen-Image:fal-ai",
       "kudzueye/boreal-qwen-image",
@@ -1157,7 +1154,7 @@
       "kp-forks/Flux-uncensored:fal-ai",
       "kp-forks/Flux-uncensored:replicate"
     ],
-    "model_count": 273
+    "model_count": 271
   },
   "HuggingSpace": {
     "provider_info": {
@@ -2127,7 +2124,6 @@
       "flux",
       "turbo",
       "kontext",
-      "gptimage",
       "openai-audio",
       "alloy",
       "echo",
@@ -2143,7 +2139,7 @@
       "amuch",
       "dan"
     ],
-    "model_count": 36
+    "model_count": 35
   },
   "PollinationsImage": {
     "provider_info": {
@@ -2156,10 +2152,9 @@
     "models": [
       "flux",
       "turbo",
-      "kontext",
-      "gptimage"
+      "kontext"
     ],
-    "model_count": 4
+    "model_count": 3
   },
   "PuterJS": {
     "provider_info": {
@@ -2822,13 +2817,13 @@
       "label": "Qwen Qwen-3"
     },
     "models": [
-      "qwen-3-1.7b",
-      "qwen-3-30b-a3b",
-      "qwen-3-14b",
-      "qwen-3-235b",
       "qwen-3-32b",
+      "qwen-3-14b",
+      "qwen-3-30b-a3b",
       "qwen-3-8b",
+      "qwen-3-1.7b",
       "qwen-3-4b",
+      "qwen-3-235b",
       "qwen-3-0.6b"
     ],
     "model_count": 8
