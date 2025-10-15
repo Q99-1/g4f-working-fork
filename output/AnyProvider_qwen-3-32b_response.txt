@@ -1,4 +1,2 @@
 <think>
-Okay, the user just said, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down. They're checking if I'm online and able to respond.
-
-First, I need to confirm
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to check if I'm functioning properly. Since I can reply, I should confirm by saying 'Yes'. Let me

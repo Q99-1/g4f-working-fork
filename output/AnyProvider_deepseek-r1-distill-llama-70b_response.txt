@@ -1,4 +1,6 @@
 <think>
-Alright, someone just asked me if I'm working and to reply with 'Yes'. They also mentioned to respond in English. So, first, I should acknowledge their greeting and confirm that I'm operational.
+Alright, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." 
 
-I need to make sure my response
+I should respond in a friendly and helpful manner. 
+
+Since they requested a 'Yes' if I can respond, I
