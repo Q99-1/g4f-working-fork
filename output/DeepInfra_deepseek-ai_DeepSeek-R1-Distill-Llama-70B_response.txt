@@ -1,8 +1,2 @@
 <think>
-Okay, the user greeted me and asked if I'm working. I need to confirm that I can respond.
-
-I should answer with 'Yes' as requested.
-
-Maybe I can also offer further assistance in case they need more help.
-</think>
-
+Alright, so I just got a message from someone asking me, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, I need to figure out the best way to handle this. Let's break it

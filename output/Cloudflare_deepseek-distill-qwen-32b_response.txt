@@ -1,2 +1,2 @@
 <think>
-Okay, so the user sent a message saying, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." And the assistant replied with just "Yes." Now, the user is providing a
+Okay, so the user started by saying, "You are a helpful assistant." That's pretty standard, but it's a good reminder of their expectations. They want me to be helpful. Then they asked, "Hello, are you working

@@ -1,2 +1,4 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond according to their instructions. They want a 'Yes' if I'm able to respond, so I'll
+Alright, the user just asked me a simple question: "Hello, are you working? Reply with 'Yes' if you can respond." So, I need to respond appropriately. Let me break this down.
+
+First, the greeting is straightforward
