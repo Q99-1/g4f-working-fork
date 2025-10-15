@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to get my WiFi working again. I was in the middle of something when it just stopped. First, I'm a bit confused because it was working fine before, and I didn't change
+Okay, so I need to figure out how to create a Python script that identifies and classifies different types of citrus fruits based on images. Hmm, where do I even start? I know a bit about Python and a little about machine learning

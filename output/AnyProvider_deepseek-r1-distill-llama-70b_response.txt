@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to roast coffee beans at home. I've heard that roasting your own coffee can give you better flavor and more control over the final product. But where do I start? Let me think about
+Okay, the user said "Yes," so they're working. Now I need to figure out how to respond. They started with a greeting and a question about whether I'm working, and they asked me to reply with 'Yes' if
