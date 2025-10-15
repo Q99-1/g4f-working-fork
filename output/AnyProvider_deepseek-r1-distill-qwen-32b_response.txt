@@ -1,5 +1,2 @@
 <think>
-Hello! I'm here and ready to help. How can I assist you today?
-</think>
-
-Hello! I'm here and ready to help. How can I assist you today?
+Alright, the user is asking if I'm working and to reply 'Yes' if I can respond. They even provided how they want the response. I should make sure to follow their instructions exactly. So, I'll just need to send

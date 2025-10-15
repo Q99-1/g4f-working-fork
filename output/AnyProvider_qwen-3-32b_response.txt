@@ -1,2 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to check if I'm functioning properly. Since I can reply, I should confirm by saying 'Yes'. Let me
+Okay, the user is asking if I'm working. They want a 'Yes' if I can respond. I need to confirm I'm active. Let me make sure to reply with 'Yes' first. Then maybe offer help. Keep

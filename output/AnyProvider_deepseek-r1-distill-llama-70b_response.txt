@@ -1,6 +1,2 @@
 <think>
-Alright, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." 
-
-I should respond in a friendly and helpful manner. 
-
-Since they requested a 'Yes' if I can respond, I
+Alright, so I need to figure out how to respond to the user's question. They asked, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, okay, first I should understand what they're
