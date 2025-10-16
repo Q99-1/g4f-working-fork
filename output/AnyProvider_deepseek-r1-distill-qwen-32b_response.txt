@@ -1,2 +1,4 @@
 <think>
-Okay, so I need to figure out how to answer this question. The user greeted with "Hello, are you working?" and told me to reply with 'Yes' if I can respond. But I already said 'Yes', so now
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." So, I should just say 'Yes' as they requested.
+
+I need to make sure I only reply with that single word
