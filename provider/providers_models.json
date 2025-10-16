@@ -655,8 +655,8 @@
       "meta-llama/Llama-3.2-1B-Instruct",
       "Qwen/Qwen3-Next-80B-A3B-Instruct",
       "zai-org/GLM-4.6-FP8",
-      "meta-llama/Llama-3.1-8B",
       "Qwen/Qwen3-4B-Thinking-2507",
+      "meta-llama/Llama-3.1-8B",
       "meta-llama/Llama-3.2-3B-Instruct",
       "Qwen/Qwen3-1.7B",
       "zai-org/GLM-4.5-Air",
@@ -713,36 +713,37 @@
       "zai-org/GLM-4.6-FP8",
       "Qwen/Qwen3-4B-Thinking-2507",
       "meta-llama/Llama-3.2-3B-Instruct",
+      "meta-llama/Llama-4-Scout-17B-16E-Instruct",
       "Qwen/Qwen3-1.7B",
       "zai-org/GLM-4.5-Air",
       "meta-llama/Llama-3.3-70B-Instruct",
-      "meta-llama/Llama-4-Scout-17B-16E-Instruct",
       "swiss-ai/Apertus-8B-Instruct-2509",
       "katanemo/Arch-Router-1.5B",
       "mistralai/Mistral-7B-Instruct-v0.2",
+      "Qwen/Qwen3-32B",
       "Qwen/Qwen3-Coder-480B-A35B-Instruct",
       "Qwen/Qwen3-VL-235B-A22B-Thinking",
       "deepseek-ai/DeepSeek-V3.1-Terminus",
       "meta-llama/Meta-Llama-3-8B-Instruct",
       "Qwen/Qwen2.5-7B-Instruct",
       "Qwen/Qwen2.5-1.5B-Instruct",
-      "Qwen/Qwen3-32B",
       "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
       "google/gemma-3-12b-it",
       "HuggingFaceTB/SmolLM3-3B",
       "moonshotai/Kimi-K2-Instruct",
       "zai-org/GLM-4.5",
+      "HuggingFaceH4/zephyr-7b-beta",
       "google/gemma-2-2b-it",
       "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
       "Qwen/Qwen3-14B",
       "deepseek-ai/DeepSeek-R1-0528",
       "Qwen/Qwen3-30B-A3B-Thinking-2507",
       "deepseek-ai/DeepSeek-V3.1",
-      "HuggingFaceH4/zephyr-7b-beta",
       "google/gemma-3-27b-it",
       "meta-llama/Llama-4-Maverick-17B-128E-Instruct",
       "NousResearch/Hermes-4-70B",
       "Qwen/Qwen3-Next-80B-A3B-Thinking",
+      "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
       "Qwen/Qwen3-235B-A22B-Instruct-2507",
       "Qwen/Qwen3-235B-A22B-Thinking-2507",
       "MLP-KTLim/llama-3-Korean-Bllossom-8B",
@@ -754,7 +755,6 @@
       "CohereLabs/aya-expanse-8b",
       "deepseek-ai/DeepSeek-V3",
       "jinaai/ReaderLM-v2",
-      "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
       "Qwen/Qwen2.5-VL-72B-Instruct",
       "Qwen/QwQ-32B",
       "darkc0de/XortronCriminalComputingConfig",
@@ -766,6 +766,7 @@
       "Sao10K/L3-70B-Euryale-v2.1",
       "SeaLLMs/SeaLLMs-v3-7B-Chat",
       "Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2",
+      "Qwen/Qwen2.5-72B-Instruct",
       "Qwen/Qwen2.5-Math-1.5B",
       "google/gemma-2-2b-jpn-it",
       "CohereLabs/aya-expanse-32b",
@@ -790,6 +791,7 @@
       "mistralai/Mixtral-8x7B-Instruct-v0.1",
       "GritLM/GritLM-7B",
       "speakleash/Bielik-7B-Instruct-v0.1",
+      "IlyaGusev/saiga_llama3_8b",
       "defog/llama-3-sqlcoder-8b",
       "mlabonne/NeuralDaredevil-8B-abliterated",
       "failspy/Meta-Llama-3-70B-Instruct-abliterated-v3.5",
@@ -801,7 +803,6 @@
       "unsloth/Meta-Llama-3.1-8B-Instruct",
       "NousResearch/Hermes-3-Llama-3.1-8B",
       "arcee-ai/Llama-3.1-SuperNova-Lite",
-      "Qwen/Qwen2.5-72B-Instruct",
       "Qwen/Qwen2.5-Coder-7B",
       "Qwen/Qwen2.5-32B-Instruct",
       "AITeamVN/Vi-Qwen2-7B-RAG",
@@ -883,7 +884,7 @@
       "ReadyArt/Broken-Tutu-24B-Unslop-v2.0",
       "google/gemma-3-27b-it"
     ],
-    "model_count": 191
+    "model_count": 192
   },
   "HuggingFaceMedia": {
     "provider_info": {
@@ -925,6 +926,7 @@
       "akhaliq/veo3.1-fast:replicate",
       "tencent/HunyuanImage-3.0",
       "tencent/HunyuanImage-3.0:fal-ai",
+      "tencent/HunyuanImage-3.0:replicate",
       "black-forest-labs/FLUX.1-dev",
       "black-forest-labs/FLUX.1-dev:nebius",
       "black-forest-labs/FLUX.1-dev:fal-ai",
@@ -1012,6 +1014,8 @@
       "bunnycore/Qwen-Aesthetic:fal-ai",
       "olesheva/DavidLynch-Qwen-LoRA",
       "olesheva/DavidLynch-Qwen-LoRA:fal-ai",
+      "starsfriday/Qwen-Image-NSFW",
+      "starsfriday/Qwen-Image-NSFW:fal-ai",
       "itzzdeep/youtube-thumbnails-sdxl-lora",
       "itzzdeep/youtube-thumbnails-sdxl-lora:fal-ai",
       "dog-god/texture-synthesis-sdxl-lora",
@@ -1096,8 +1100,6 @@
       "Nesslovver/P_or_n_conceptz:replicate",
       "flymy-ai/qwen-image-anime-irl-lora",
       "flymy-ai/qwen-image-anime-irl-lora:fal-ai",
-      "starsfriday/Qwen-Image-NSFW",
-      "starsfriday/Qwen-Image-NSFW:fal-ai",
       "Raelina/Raena-Qwen-Image",
       "Raelina/Raena-Qwen-Image:fal-ai",
       "kudzueye/boreal-qwen-image",
@@ -1160,7 +1162,7 @@
       "kp-forks/Flux-uncensored:fal-ai",
       "kp-forks/Flux-uncensored:replicate"
     ],
-    "model_count": 265
+    "model_count": 266
   },
   "HuggingSpace": {
     "provider_info": {
@@ -1756,6 +1758,7 @@
       "openai/gpt-5-chat",
       "openai/gpt-5-codex",
       "openai/gpt-5-image",
+      "openai/gpt-5-image-mini",
       "openai/gpt-5-mini",
       "openai/gpt-5-nano",
       "openai/gpt-5-pro",
@@ -1867,7 +1870,7 @@
       "z-ai/glm-4.5v",
       "z-ai/glm-4.6"
     ],
-    "model_count": 336
+    "model_count": 337
   },
   "OpenRouterFree": {
     "provider_info": {
@@ -2132,6 +2135,7 @@
       "flux",
       "turbo",
       "kontext",
+      "gptimage",
       "openai-audio",
       "alloy",
       "echo",
@@ -2147,7 +2151,7 @@
       "amuch",
       "dan"
     ],
-    "model_count": 35
+    "model_count": 36
   },
   "PollinationsImage": {
     "provider_info": {
@@ -2160,9 +2164,10 @@
     "models": [
       "flux",
       "turbo",
-      "kontext"
+      "kontext",
+      "gptimage"
     ],
-    "model_count": 3
+    "model_count": 4
   },
   "PuterJS": {
     "provider_info": {
@@ -2385,6 +2390,7 @@
       "lfm-7b",
       "lfm-3b",
       "lfm-40b",
+      "openrouter:openai/gpt-5-image-mini",
       "openrouter:anthropic/claude-haiku-4.5",
       "openrouter:qwen/qwen3-vl-8b-thinking",
       "openrouter:qwen/qwen3-vl-8b-instruct",
@@ -2650,21 +2656,21 @@
       "openrouter:inflection/inflection-3-productivity",
       "openrouter:anthracite-org/magnum-v2-72b",
       "openrouter:thedrummer/rocinante-12b",
+      "openrouter:meta-llama/llama-3.2-11b-vision-instruct",
       "openrouter:meta-llama/llama-3.2-3b-instruct:free",
       "openrouter:meta-llama/llama-3.2-3b-instruct",
-      "openrouter:meta-llama/llama-3.2-11b-vision-instruct",
-      "openrouter:meta-llama/llama-3.2-90b-vision-instruct",
       "openrouter:meta-llama/llama-3.2-1b-instruct",
+      "openrouter:meta-llama/llama-3.2-90b-vision-instruct",
       "openrouter:qwen/qwen-2.5-72b-instruct:free",
       "openrouter:qwen/qwen-2.5-72b-instruct",
       "openrouter:neversleep/llama-3.1-lumimaid-8b",
       "openrouter:openai/o1-mini",
       "openrouter:openai/o1-mini-2024-09-12",
       "openrouter:mistralai/pixtral-12b",
-      "openrouter:cohere/command-r-08-2024",
       "openrouter:cohere/command-r-plus-08-2024",
-      "openrouter:sao10k/l3.1-euryale-70b",
+      "openrouter:cohere/command-r-08-2024",
       "openrouter:qwen/qwen-2.5-vl-7b-instruct",
+      "openrouter:sao10k/l3.1-euryale-70b",
       "openrouter:microsoft/phi-3.5-mini-128k-instruct",
       "openrouter:nousresearch/hermes-3-llama-3.1-70b",
       "openrouter:nousresearch/hermes-3-llama-3.1-405b",
@@ -2672,30 +2678,30 @@
       "openrouter:sao10k/l3-lunaris-8b",
       "openrouter:openai/gpt-4o-2024-08-06",
       "openrouter:meta-llama/llama-3.1-405b",
-      "openrouter:meta-llama/llama-3.1-405b-instruct",
       "openrouter:meta-llama/llama-3.1-8b-instruct",
       "openrouter:meta-llama/llama-3.1-70b-instruct",
+      "openrouter:meta-llama/llama-3.1-405b-instruct",
       "openrouter:mistralai/mistral-nemo:free",
       "openrouter:mistralai/mistral-nemo",
-      "openrouter:openai/gpt-4o-mini-2024-07-18",
       "openrouter:openai/gpt-4o-mini",
+      "openrouter:openai/gpt-4o-mini-2024-07-18",
       "openrouter:google/gemma-2-27b-it",
       "openrouter:google/gemma-2-9b-it:free",
       "openrouter:google/gemma-2-9b-it",
       "openrouter:anthropic/claude-3.5-sonnet-20240620",
       "openrouter:sao10k/l3-euryale-70b",
+      "openrouter:nousresearch/hermes-2-pro-llama-3-8b",
       "openrouter:mistralai/mistral-7b-instruct:free",
       "openrouter:mistralai/mistral-7b-instruct",
       "openrouter:mistralai/mistral-7b-instruct-v0.3",
-      "openrouter:nousresearch/hermes-2-pro-llama-3-8b",
       "openrouter:microsoft/phi-3-mini-128k-instruct",
       "openrouter:microsoft/phi-3-medium-128k-instruct",
-      "openrouter:openai/gpt-4o",
-      "openrouter:openai/gpt-4o:extended",
       "openrouter:meta-llama/llama-guard-2-8b",
       "openrouter:openai/gpt-4o-2024-05-13",
-      "openrouter:meta-llama/llama-3-8b-instruct",
+      "openrouter:openai/gpt-4o",
+      "openrouter:openai/gpt-4o:extended",
       "openrouter:meta-llama/llama-3-70b-instruct",
+      "openrouter:meta-llama/llama-3-8b-instruct",
       "openrouter:mistralai/mixtral-8x22b-instruct",
       "openrouter:microsoft/wizardlm-2-8x22b",
       "openrouter:openai/gpt-4-turbo",
@@ -2712,17 +2718,17 @@
       "openrouter:alpindale/goliath-120b",
       "openrouter:openrouter/auto",
       "openrouter:openai/gpt-4-1106-preview",
-      "openrouter:mistralai/mistral-7b-instruct-v0.1",
       "openrouter:openai/gpt-3.5-turbo-instruct",
+      "openrouter:mistralai/mistral-7b-instruct-v0.1",
       "openrouter:openai/gpt-3.5-turbo-16k",
       "openrouter:mancer/weaver",
       "openrouter:undi95/remm-slerp-l2-13b",
       "openrouter:gryphe/mythomax-l2-13b",
-      "openrouter:openai/gpt-4",
+      "openrouter:openai/gpt-3.5-turbo",
       "openrouter:openai/gpt-4-0314",
-      "openrouter:openai/gpt-3.5-turbo"
+      "openrouter:openai/gpt-4"
     ],
-    "model_count": 548
+    "model_count": 549
   },
   "Qwen": {
     "provider_info": {
@@ -2827,14 +2833,14 @@
       "label": "Qwen Qwen-3"
     },
     "models": [
-      "qwen-3-235b",
+      "qwen-3-14b",
       "qwen-3-30b-a3b",
-      "qwen-3-8b",
-      "qwen-3-0.6b",
+      "qwen-3-235b",
       "qwen-3-1.7b",
+      "qwen-3-8b",
       "qwen-3-32b",
       "qwen-3-4b",
-      "qwen-3-14b"
+      "qwen-3-0.6b"
     ],
     "model_count": 8
   },

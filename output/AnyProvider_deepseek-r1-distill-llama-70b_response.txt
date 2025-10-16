@@ -1,2 +1,4 @@
 <think>
-Okay, so I need to figure out how to answer the question, "Hello, are you working? Reply with 'Yes' if you can respond." The user is asking if I'm operational. They provided an example where the response is
+Okay, the user greeted me with "Hello, are you working?" and asked me to reply with 'Yes' if I can respond. So, I need to make sure I provide a clear and friendly response.
+
+First, I'll acknowledge

@@ -1,4 +1,2 @@
 <think>
-Okay, the user is asking if I can respond. I need to reply with 'Yes' if that's the case. Let me check.
-
-Since I can communicate through this interface, the proper response is to acknowledge and reply with 'Yes
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down. First, they want to check if I'm operational and capable of replying. The instruction

@@ -1,6 +1,2 @@
 <think>
-Okay, the user said "Hello, are you working? Reply with 'Yes' if you can respond." So, I should respond with just 'Yes'.
-
-I need to keep it simple and straightforward.
-
-Make sure there are no additional explanations
+Okay, so I'm trying to understand how to use the Haversine formula to calculate the distance between two points on Earth. I remember that the Earth isn't a perfect sphere, but I think the Haversine formula treats it like
