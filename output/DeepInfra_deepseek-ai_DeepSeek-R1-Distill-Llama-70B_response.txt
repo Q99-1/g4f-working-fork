@@ -1,2 +1,6 @@
 <think>
-Alright, so I need to figure out how to reply to the user's question. They asked, "Hello, are you working? Reply with 'Yes' if you can respond." The user wants me to start with "Hello! Yes
+Okay, the user said "Hello, are you working? Reply with 'Yes' if you can respond." So, I should respond with just 'Yes'.
+
+I need to keep it simple and straightforward.
+
+Make sure there are no additional explanations

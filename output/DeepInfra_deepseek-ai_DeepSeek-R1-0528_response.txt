@@ -1,4 +1,4 @@
 <think>
-Okay, the user just greeted me and asked if I'm working, with a specific instruction to reply 'Yes' if I can respond. 
+Okay, the user just asked if I'm working with a very specific instruction to reply only with 'Yes' if I can respond. 
 
-Hmm, this seems like a simple check to confirm functionality. The user might be testing if
+Hmm, this seems like a test or a connectivity check - maybe they've had issues with AI

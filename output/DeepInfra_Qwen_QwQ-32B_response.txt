@@ -1,3 +1,1 @@
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to approach this.
-
-First, I need to determine what the user is asking. They're checking if I
+Okay, the user sent a message in Chinese asking if I'm working and to reply with 'Yes' if I can respond. Let me see... The user wrote "Hello, are you working? Reply with 'Yes' if you can respond."

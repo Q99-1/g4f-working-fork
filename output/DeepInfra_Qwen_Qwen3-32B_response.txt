@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working. I need to confirm if I can respond. Since they want a reply with 'Yes', I should just say 'Yes'. But wait, maybe they want a bit more. Let me
+Okay, the user is asking if I can respond. I need to reply with 'Yes' if that's the case. Let me check.
+
+Since I can communicate through this interface, the proper response is to acknowledge and reply with 'Yes
