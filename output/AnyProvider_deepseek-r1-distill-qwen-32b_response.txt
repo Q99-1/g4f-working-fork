@@ -1,2 +1,0 @@
-<think>
-Okay, so I'm trying to figure out how to respond when someone says, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, interesting. I guess the person wants a simple response to confirm availability

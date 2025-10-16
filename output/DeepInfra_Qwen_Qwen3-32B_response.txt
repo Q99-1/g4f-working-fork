@@ -1,4 +1,4 @@
 <think>
-Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+Okay, the user started with a greeting, maybe they're testing if I'm online or just being friendly. They want a 'Yes' response if I can answer. Let me check.
 
-First, they're testing if the model is active and can reply. The instruction is to
+First, make sure the response is simple. The
