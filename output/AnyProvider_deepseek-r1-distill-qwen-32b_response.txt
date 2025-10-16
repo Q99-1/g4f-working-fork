@@ -1,2 +1,5 @@
 <think>
-Okay, so I'm trying to figure out what I should do in this situation. I was chatting with someone, and they sent me a message saying, "Hello, are you working? Reply with 'Yes' if you can respond."
+Okay, the user said "Yes," so they're working. I should be prepared to help them with whatever they need. I'll just wait for them to ask their question.
+</think>
+
+Yes

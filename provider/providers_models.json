@@ -649,16 +649,16 @@
       "dphn/Dolphin-Mistral-24B-Venice-Edition",
       "Qwen/Qwen3-30B-A3B-Instruct-2507",
       "deepseek-ai/DeepSeek-R1",
-      "Kwaipilot/KAT-Dev",
       "moonshotai/Kimi-K2-Instruct-0905",
-      "Qwen/Qwen3-Next-80B-A3B-Instruct",
+      "Kwaipilot/KAT-Dev",
       "meta-llama/Llama-3.2-1B-Instruct",
+      "Qwen/Qwen3-Next-80B-A3B-Instruct",
       "Qwen/Qwen3-4B-Thinking-2507",
       "zai-org/GLM-4.6-FP8",
+      "meta-llama/Llama-3.2-3B-Instruct",
       "meta-llama/Llama-3.3-70B-Instruct",
       "Qwen/Qwen3-1.7B",
       "zai-org/GLM-4.5-Air",
-      "meta-llama/Llama-3.2-3B-Instruct",
       "meta-llama/Llama-3.1-8B",
       "meta-llama/Llama-3.2-11B-Vision-Instruct",
       "Qwen/Qwen2-VL-7B-Instruct",
@@ -699,19 +699,19 @@
       "dphn/Dolphin-Mistral-24B-Venice-Edition",
       "Qwen/Qwen3-30B-A3B-Instruct-2507",
       "deepseek-ai/DeepSeek-R1",
+      "moonshotai/Kimi-K2-Instruct-0905",
       "Qwen/Qwen2.5-VL-7B-Instruct",
       "Kwaipilot/KAT-Dev",
       "mistralai/Mistral-7B-Instruct-v0.3",
-      "moonshotai/Kimi-K2-Instruct-0905",
+      "meta-llama/Llama-3.2-1B-Instruct",
       "Qwen/Qwen3-Next-80B-A3B-Instruct",
       "Qwen/Qwen3-VL-235B-A22B-Instruct",
-      "meta-llama/Llama-3.2-1B-Instruct",
       "Qwen/Qwen3-4B-Thinking-2507",
       "zai-org/GLM-4.6-FP8",
+      "meta-llama/Llama-3.2-3B-Instruct",
       "meta-llama/Llama-3.3-70B-Instruct",
       "Qwen/Qwen3-1.7B",
       "zai-org/GLM-4.5-Air",
-      "meta-llama/Llama-3.2-3B-Instruct",
       "meta-llama/Llama-4-Scout-17B-16E-Instruct",
       "Qwen/Qwen3-VL-235B-A22B-Thinking",
       "Qwen/Qwen3-Coder-480B-A35B-Instruct",
@@ -755,6 +755,7 @@
       "darkc0de/XortronCriminalComputingConfig",
       "deepseek-ai/DeepSeek-R1-0528-Qwen3-8B",
       "katanemo/Arch-Router-1.5B",
+      "NousResearch/Hermes-4-70B",
       "meta-llama/Llama-2-13b-chat-hf",
       "Sao10K/L3-70B-Euryale-v2.1",
       "SeaLLMs/SeaLLMs-v3-7B-Chat",
@@ -777,11 +778,12 @@
       "zai-org/GLM-4.1V-9B-Thinking",
       "zai-org/GLM-4.5-Air-FP8",
       "fdtn-ai/Foundation-Sec-8B-Instruct",
-      "NousResearch/Hermes-4-70B",
       "CohereLabs/command-a-translate-08-2025",
       "swiss-ai/Apertus-70B-Instruct-2509",
       "HuggingFaceH4/zephyr-7b-alpha",
+      "Nondzu/Mistral-7B-codealpaca-lora",
       "ceadar-ie/FinanceConnect-13B",
+      "mistralai/Mixtral-8x7B-Instruct-v0.1",
       "GritLM/GritLM-7B",
       "speakleash/Bielik-7B-Instruct-v0.1",
       "defog/llama-3-sqlcoder-8b",
@@ -851,6 +853,7 @@
       "MiniMaxAI/MiniMax-M1-80k",
       "moonshotai/Kimi-Dev-72B",
       "THU-KEG/LongWriter-Zero-32B",
+      "baidu/ERNIE-4.5-21B-A3B-PT",
       "agentica-org/DeepSWE-Preview",
       "nvidia/OpenReasoning-Nemotron-32B",
       "Tesslate/UIGEN-X-8B",
@@ -872,7 +875,7 @@
       "ReadyArt/Broken-Tutu-24B-Unslop-v2.0",
       "google/gemma-3-27b-it"
     ],
-    "model_count": 183
+    "model_count": 186
   },
   "HuggingFaceMedia": {
     "provider_info": {
@@ -947,6 +950,7 @@
       "ByteDance/Hyper-SD",
       "ByteDance/Hyper-SD:fal-ai",
       "ByteDance/Hyper-SD:replicate",
+      "ByteDance/Hyper-SD:replicate",
       "flymy-ai/qwen-image-realism-lora",
       "flymy-ai/qwen-image-realism-lora:fal-ai",
       "Gourieff/Flux.1-Fashion-Enhancer-Lora",
@@ -958,6 +962,7 @@
       "ntc-ai/SDXL-LoRA-slider.comic-portrait:fal-ai",
       "playgroundai/playground-v2.5-1024px-aesthetic",
       "playgroundai/playground-v2.5-1024px-aesthetic:fal-ai",
+      "playgroundai/playground-v2.5-1024px-aesthetic:replicate",
       "rajkumaralma/futureistic_fantasy_anime_sDXL",
       "rajkumaralma/futureistic_fantasy_anime_sDXL:fal-ai",
       "stabilityai/stable-diffusion-3-medium-diffusers",
@@ -1143,7 +1148,7 @@
       "kp-forks/Flux-uncensored:fal-ai",
       "kp-forks/Flux-uncensored:replicate"
     ],
-    "model_count": 259
+    "model_count": 261
   },
   "HuggingSpace": {
     "provider_info": {
@@ -2116,6 +2121,7 @@
       "flux",
       "turbo",
       "kontext",
+      "gptimage",
       "openai-audio",
       "alloy",
       "echo",
@@ -2131,7 +2137,7 @@
       "amuch",
       "dan"
     ],
-    "model_count": 36
+    "model_count": 37
   },
   "PollinationsImage": {
     "provider_info": {
@@ -2144,9 +2150,10 @@
     "models": [
       "flux",
       "turbo",
-      "kontext"
+      "kontext",
+      "gptimage"
     ],
-    "model_count": 3
+    "model_count": 4
   },
   "PuterJS": {
     "provider_info": {
@@ -2811,14 +2818,14 @@
       "label": "Qwen Qwen-3"
     },
     "models": [
-      "qwen-3-1.7b",
-      "qwen-3-8b",
-      "qwen-3-32b",
-      "qwen-3-4b",
-      "qwen-3-0.6b",
-      "qwen-3-30b-a3b",
       "qwen-3-14b",
-      "qwen-3-235b"
+      "qwen-3-235b",
+      "qwen-3-30b-a3b",
+      "qwen-3-0.6b",
+      "qwen-3-1.7b",
+      "qwen-3-4b",
+      "qwen-3-8b",
+      "qwen-3-32b"
     ],
     "model_count": 8
   },

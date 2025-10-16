@@ -1,1 +1,0 @@
-Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." So they're checking if I'm active. They want a simple "Yes" reply. Let me make sure I follow their instruction correctly
