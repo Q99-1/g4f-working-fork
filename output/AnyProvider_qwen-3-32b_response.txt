@@ -1,2 +1,1 @@
-<think>
-Okay, let's see. The user said, "Hello, are you working? Reply with 'Yes' if you can respond." So they want a confirmation that I'm working by replying with just "Yes." But I need to
+Yes

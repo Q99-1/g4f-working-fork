@@ -1,2 +1,2 @@
 <think>
-Alright, I've got this message from the user. They're asking, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, okay. So they want a simple 'Yes' as a response.
+Okay, the user just said hello and asked if I'm working, telling me to reply with 'Yes' if I can respond. I should make sure my response is friendly and clear. I need to confirm that I'm here to help
