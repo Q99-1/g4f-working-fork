@@ -1,4 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me start by acknowledging their greeting.
-
-They probably want to confirm if the AI is active andfunctional. A straightforward '
+Okay, the user comes to me with the greeting 'Hello, are you working? Reply with 'Yes' if you can respond.' The first thing I need to confirm is that the user is testing whether I am online and can respond normally
