@@ -1,1 +1,1 @@
-Yes
+Okay, the user said "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation. The instruction is straightforward. I need to respond with just "Yes" to let them know I'm operational.

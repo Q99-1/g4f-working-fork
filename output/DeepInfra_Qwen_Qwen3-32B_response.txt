@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. I need to check if there are any issues that might prevent me from responding. Let me think... I don't have
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me start by acknowledging their greeting.
+
+They probably want to confirm if the AI is active andfunctional. A straightforward '

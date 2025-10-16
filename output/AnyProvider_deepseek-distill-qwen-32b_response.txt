@@ -1,2 +1,2 @@
 <think>
-Alright, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." They're checking if I'm functional. I need to confirm I'm available. So, I'll respond with "Yes."
+Alright, the user just greeted me and asked if I'm working. They specifically want a 'Yes' response if I can respond. Since I can, I should simply reply with 'Yes'. Keeping it concise and clear is best here.
