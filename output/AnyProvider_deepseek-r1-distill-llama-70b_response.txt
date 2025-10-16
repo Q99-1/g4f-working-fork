@@ -1,2 +1,5 @@
 <think>
-Okay, so I've got this message here where someone is saying, "Hello, are you working? Reply with 'Yes' if you can respond." And they’re asking me to explain the thought process of an assistant who received that message
+Hello! I'm here and ready to help. How can I assist you today?
+</think>
+
+Hello! I'm here and ready to help. How can I assist you today?

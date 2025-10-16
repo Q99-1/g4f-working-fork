@@ -1,4 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." So, I should just say 'Yes' as they requested.
-
-I need to make sure I only reply with that single word
+Okay, so I'm trying to figure out how to respond when someone says, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, interesting. I guess the person wants a simple response to confirm availability

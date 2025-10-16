@@ -1,4 +1,4 @@
 <think>
-Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out the appropriate response. Let me break this down.
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
 
-First, the greeting "Hello" is straightforward.
+First, they're testing if the model is active and can reply. The instruction is to
