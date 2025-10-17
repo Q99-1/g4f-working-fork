@@ -1,4 +1,2 @@
 <think>
-Okay, so I need to figure out the 10 largest cities in Germany by population. Hmm, I'm not too sure about all of them, but I know some. Let me think.
-
-First, Berlin is the capital, so that
+Okay, the user just asked me if I'm working and told me to reply with 'Yes' if I can respond. I should keep it simple and straightforward. I need to confirm that I'm operational without any extra information. So,
