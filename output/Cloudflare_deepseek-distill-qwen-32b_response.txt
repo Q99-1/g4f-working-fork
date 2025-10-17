@@ -1,2 +1,2 @@
 <think>
-Okay, so the user sent a message: "Hello, are you working? Reply with 'Yes' if you can respond." My task is to respond with 'Yes' as instructed. But wait, I should make sure I understand the
+Okay, so I just saw the user message where they said, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." Then the assistant replied with "Yes." I'm trying to figure
