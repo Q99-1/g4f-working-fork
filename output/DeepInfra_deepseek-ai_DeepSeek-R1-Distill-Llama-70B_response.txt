@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to understand how to use the Haversine formula to calculate the distance between two points on Earth. I remember that the Earth isn't a perfect sphere, but I think the Haversine formula treats it like
+Okay, so I'm trying to figure out how to solve this math problem. It's not too complicated, but I want to make sure I understand each step correctly. The problem is: What is the perimeter of a rectangle with a length

@@ -1,2 +1,5 @@
 <think>
-Okay, so I'm trying to figure out how to respond to this user. They said, "Hello, are you working? Reply with 'Yes' if you can respond." And the initial response was "Yes". Now, I need
+Hello! I'm here and ready to help with whatever you need. How can I assist you today?
+</think>
+
+Hello! I'm here and ready to help with whatever you need. How can I assist you today?

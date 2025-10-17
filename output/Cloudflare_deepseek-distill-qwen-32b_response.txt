@@ -1,4 +1,2 @@
 <think>
-Okay, so the user just asked me, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, I need to figure out the best way to respond here. Let me break this down.
-
-First,
+Okay, so the user sent a message: "Hello, are you working? Reply with 'Yes' if you can respond." My task is to respond with 'Yes' as instructed. But wait, I should make sure I understand the

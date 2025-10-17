@@ -1,2 +1,2 @@
 <think>
-Okay, so the user just said, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." Hmm, I need to figure out what they're asking for. They're probably checking if
+Okay, so the user just said, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." Hmm, I need to figure out the best way to respond here. Let me break it
