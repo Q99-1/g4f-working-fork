@@ -1,2 +1,4 @@
 <think>
-Okay, the user asked, Hello, are you working? Reply with 'Yes' if you can respond. Alright, first I need to confirm if the user is asking if I'm available to respond. They want a 'Yes' reply
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to approach this.
+
+First, the user is probably testing if I'm online or functioning. Maybe

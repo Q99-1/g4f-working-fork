@@ -1,0 +1,4 @@
+<think>
+Okay, the user greeted me with 'Hello' and is asking if I'm working. They want me to reply with 'Yes' if I can respond. Let me make sure I understand the request correctly.
+
+First, I should acknowledge their

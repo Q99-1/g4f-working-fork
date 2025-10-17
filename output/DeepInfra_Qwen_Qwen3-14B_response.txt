@@ -1,4 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
-
-First, they're greeting me with "Hello," which is standard. Then they're asking if
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down. They want a simple confirmation if I'm active. Since I'm an AI, I don
