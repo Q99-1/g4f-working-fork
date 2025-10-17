@@ -1,2 +1,2 @@
 <think>
-Okay, so the user first asked if I'm working and to reply with 'Yes' if I can respond. I replied 'Yes'. Now, he's followed up with, "Great, I need help with something. How can you
+Okay, so I'm trying to figure out how to approach this problem. The user provided a conversation where they say "Hello, are you working?" and the assistant replies with 'Yes'. Then the user asks the assistant to confirm it's

@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I can respond by replying with 'Yes'. I need to check if they're testing my basic functionality and direct response ability. First, they said "Hello", then asked if I'm working, requesting
+Okay, the user sent a message: "Hello, are you working? Reply with 'Yes' if you can respond." I need to reply. According to the instructions, I should first reply with 'Yes', then answer the question.

@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just asked if I'm working and wants me to reply with "Yes" if I can respond. Okay, let me think about this.
+Hmm, the user just asked if I'm working and requested a simple 'Yes' reply if I can respond. 
 
-First, the phrasing is a bit unusual - "are you working?" could
+Okay, this seems like a connectivity check - maybe they've had issues with AI assistants before or just want to confirm

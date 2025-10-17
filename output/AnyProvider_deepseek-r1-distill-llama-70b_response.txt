@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve this problem. Hmm, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." And then I replied 'Yes'. Now, the user
+Okay, the user greeted me and asked if I'm working. They specifically said to reply with 'Yes' if I can respond. I need to make sure I follow their instructions precisely. Since I'm functional, I'll just respond with

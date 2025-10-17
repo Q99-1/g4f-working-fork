@@ -556,30 +556,29 @@ Provider: HuggingFace
 ------------------------------
 URL: https://huggingface.co
 Label: None
-Model Count: 41
+Model Count: 40
 Models:
  - inclusionAI/Ling-1T
- - zai-org/GLM-4.6
  - deepseek-ai/DeepSeek-V3.2-Exp
  - openai/gpt-oss-20b
  - openai/gpt-oss-120b
  - meta-llama/Llama-3.1-8B-Instruct
+ - katanemo/Arch-Router-1.5B
  - Qwen/Qwen3-Coder-30B-A3B-Instruct
  - Qwen/Qwen3-8B
- - katanemo/Arch-Router-1.5B
  - Qwen/Qwen3-4B-Instruct-2507
- - moonshotai/Kimi-K2-Instruct-0905
  - zai-org/GLM-4.6-FP8
- - Kwaipilot/KAT-Dev
+ - moonshotai/Kimi-K2-Instruct-0905
  - dphn/Dolphin-Mistral-24B-Venice-Edition
+ - Kwaipilot/KAT-Dev
  - deepseek-ai/DeepSeek-R1
  - Qwen/Qwen3-30B-A3B-Instruct-2507
  - meta-llama/Llama-3.2-1B-Instruct
+ - meta-llama/Llama-3.1-8B
  - Qwen/Qwen3-4B-Thinking-2507
  - Qwen/Qwen3-Next-80B-A3B-Instruct
  - meta-llama/Llama-3.2-3B-Instruct
  - meta-llama/Llama-3.3-70B-Instruct
- - meta-llama/Llama-3.1-8B
  - Qwen/Qwen3-1.7B
  - swiss-ai/Apertus-8B-Instruct-2509
  - deepseek-ai/DeepSeek-V3.1-Terminus
@@ -606,22 +605,21 @@ Provider: HuggingFaceAPI
 ------------------------------
 URL: https://api-inference.huggingface.com
 Label: HuggingFace (Text Generation)
-Model Count: 184
+Model Count: 183
 Models:
  - inclusionAI/Ling-1T
- - zai-org/GLM-4.6
  - deepseek-ai/DeepSeek-V3.2-Exp
  - openai/gpt-oss-20b
  - openai/gpt-oss-120b
  - meta-llama/Llama-3.1-8B-Instruct
+ - katanemo/Arch-Router-1.5B
  - Qwen/Qwen3-Coder-30B-A3B-Instruct
  - Qwen/Qwen3-8B
- - katanemo/Arch-Router-1.5B
  - Qwen/Qwen3-4B-Instruct-2507
- - moonshotai/Kimi-K2-Instruct-0905
  - zai-org/GLM-4.6-FP8
- - Kwaipilot/KAT-Dev
+ - moonshotai/Kimi-K2-Instruct-0905
  - dphn/Dolphin-Mistral-24B-Venice-Edition
+ - Kwaipilot/KAT-Dev
  - Qwen/Qwen3-VL-235B-A22B-Instruct
  - deepseek-ai/DeepSeek-R1
  - mistralai/Mistral-7B-Instruct-v0.3
@@ -655,13 +653,13 @@ Models:
  - Qwen/Qwen3-30B-A3B-Thinking-2507
  - deepseek-ai/DeepSeek-V3.1
  - meta-llama/Llama-Guard-3-8B
+ - jinaai/ReaderLM-v2
  - Qwen/Qwen3-14B
  - deepseek-ai/DeepSeek-R1-0528
  - Qwen/Qwen3-235B-A22B-Instruct-2507
- - jinaai/ReaderLM-v2
+ - Qwen/Qwen3-235B-A22B-Thinking-2507
  - deepseek-ai/DeepSeek-R1-Distill-Llama-8B
  - Qwen/Qwen2.5-VL-72B-Instruct
- - Qwen/Qwen3-235B-A22B-Thinking-2507
  - zai-org/GLM-4.5V
  - Qwen/Qwen3-Next-80B-A3B-Thinking
  - MLP-KTLim/llama-3-Korean-Bllossom-8B
@@ -832,16 +830,13 @@ Models:
  - htdong/Wan-Alpha:fal-ai
  - tencent/HunyuanImage-3.0
  - tencent/HunyuanImage-3.0:fal-ai
+ - tencent/HunyuanImage-3.0:replicate
  - black-forest-labs/FLUX.1-dev
  - black-forest-labs/FLUX.1-dev:nebius
  - black-forest-labs/FLUX.1-dev:fal-ai
  - black-forest-labs/FLUX.1-dev:together
  - black-forest-labs/FLUX.1-dev:replicate
  - black-forest-labs/FLUX.1-dev:hf-inference
- - stabilityai/stable-diffusion-xl-base-1.0
- - stabilityai/stable-diffusion-xl-base-1.0:nscale
- - stabilityai/stable-diffusion-xl-base-1.0:replicate
- - stabilityai/stable-diffusion-xl-base-1.0:hf-inference
  - black-forest-labs/FLUX.1-schnell
  - black-forest-labs/FLUX.1-schnell:nebius
  - black-forest-labs/FLUX.1-schnell:nscale
@@ -849,6 +844,10 @@ Models:
  - black-forest-labs/FLUX.1-schnell:together
  - black-forest-labs/FLUX.1-schnell:replicate
  - black-forest-labs/FLUX.1-schnell:hf-inference
+ - stabilityai/stable-diffusion-xl-base-1.0
+ - stabilityai/stable-diffusion-xl-base-1.0:nscale
+ - stabilityai/stable-diffusion-xl-base-1.0:replicate
+ - stabilityai/stable-diffusion-xl-base-1.0:hf-inference
  - Qwen/Qwen-Image
  - Qwen/Qwen-Image:fal-ai
  - Qwen/Qwen-Image:replicate
@@ -864,6 +863,7 @@ Models:
  - ByteDance/SDXL-Lightning:replicate
  - ByteDance/Hyper-SD
  - ByteDance/Hyper-SD:fal-ai
+ - ByteDance/Hyper-SD:replicate
  - ByteDance/Hyper-SD:replicate
  - stabilityai/stable-diffusion-3.5-medium
  - stabilityai/stable-diffusion-3.5-medium:fal-ai
@@ -901,8 +901,6 @@ Models:
  - inuptia/asian-nudity-2
  - inuptia/asian-nudity-2:fal-ai
  - inuptia/asian-nudity-2:replicate
- - Alpha-VLLM/Lumina-Image-2.0
- - Alpha-VLLM/Lumina-Image-2.0:fal-ai
  - minpeter/LoRA-FLUX-anime-style-v2
  - minpeter/LoRA-FLUX-anime-style-v2:fal-ai
  - minpeter/LoRA-FLUX-anime-style-v2:replicate
@@ -1321,11 +1319,10 @@ Provider: OIVSCodeSer2
 ------------------------------
 URL: https://oi-vscode-server-2.onrender.com
 Label: OI VSCode Server 2
-Model Count: 3
+Model Count: 0
+Error: 500 Server Error: Internal Server Error for url: http://localhost:8081/api/OIVSCodeSer2/models
 Models:
- - *
- - custom/blackbox-base
- - gpt-4o-mini
+ No models available
 
 ==================================================
 
@@ -2468,25 +2465,25 @@ Models:
  - openrouter:mistralai/ministral-3b
  - openrouter:qwen/qwen-2.5-7b-instruct
  - openrouter:nvidia/llama-3.1-nemotron-70b-instruct
- - openrouter:inflection/inflection-3-productivity
  - openrouter:inflection/inflection-3-pi
+ - openrouter:inflection/inflection-3-productivity
  - openrouter:thedrummer/rocinante-12b
  - openrouter:anthracite-org/magnum-v2-72b
+ - openrouter:meta-llama/llama-3.2-1b-instruct
  - openrouter:meta-llama/llama-3.2-3b-instruct:free
  - openrouter:meta-llama/llama-3.2-3b-instruct
- - openrouter:meta-llama/llama-3.2-1b-instruct
  - openrouter:meta-llama/llama-3.2-90b-vision-instruct
  - openrouter:meta-llama/llama-3.2-11b-vision-instruct
  - openrouter:qwen/qwen-2.5-72b-instruct:free
  - openrouter:qwen/qwen-2.5-72b-instruct
  - openrouter:neversleep/llama-3.1-lumimaid-8b
- - openrouter:openai/o1-mini
  - openrouter:openai/o1-mini-2024-09-12
+ - openrouter:openai/o1-mini
  - openrouter:mistralai/pixtral-12b
- - openrouter:cohere/command-r-plus-08-2024
  - openrouter:cohere/command-r-08-2024
- - openrouter:qwen/qwen-2.5-vl-7b-instruct
+ - openrouter:cohere/command-r-plus-08-2024
  - openrouter:sao10k/l3.1-euryale-70b
+ - openrouter:qwen/qwen-2.5-vl-7b-instruct
  - openrouter:microsoft/phi-3.5-mini-128k-instruct
  - openrouter:nousresearch/hermes-3-llama-3.1-70b
  - openrouter:nousresearch/hermes-3-llama-3.1-405b
@@ -2494,30 +2491,30 @@ Models:
  - openrouter:sao10k/l3-lunaris-8b
  - openrouter:openai/gpt-4o-2024-08-06
  - openrouter:meta-llama/llama-3.1-405b
- - openrouter:meta-llama/llama-3.1-8b-instruct
  - openrouter:meta-llama/llama-3.1-405b-instruct
  - openrouter:meta-llama/llama-3.1-70b-instruct
+ - openrouter:meta-llama/llama-3.1-8b-instruct
  - openrouter:mistralai/mistral-nemo:free
  - openrouter:mistralai/mistral-nemo
- - openrouter:openai/gpt-4o-mini
  - openrouter:openai/gpt-4o-mini-2024-07-18
+ - openrouter:openai/gpt-4o-mini
  - openrouter:google/gemma-2-27b-it
  - openrouter:google/gemma-2-9b-it:free
  - openrouter:google/gemma-2-9b-it
  - openrouter:anthropic/claude-3.5-sonnet-20240620
  - openrouter:sao10k/l3-euryale-70b
+ - openrouter:mistralai/mistral-7b-instruct-v0.3
  - openrouter:nousresearch/hermes-2-pro-llama-3-8b
  - openrouter:mistralai/mistral-7b-instruct:free
  - openrouter:mistralai/mistral-7b-instruct
- - openrouter:mistralai/mistral-7b-instruct-v0.3
  - openrouter:microsoft/phi-3-mini-128k-instruct
  - openrouter:microsoft/phi-3-medium-128k-instruct
+ - openrouter:meta-llama/llama-guard-2-8b
  - openrouter:openai/gpt-4o
  - openrouter:openai/gpt-4o:extended
- - openrouter:meta-llama/llama-guard-2-8b
  - openrouter:openai/gpt-4o-2024-05-13
- - openrouter:meta-llama/llama-3-8b-instruct
  - openrouter:meta-llama/llama-3-70b-instruct
+ - openrouter:meta-llama/llama-3-8b-instruct
  - openrouter:mistralai/mixtral-8x22b-instruct
  - openrouter:microsoft/wizardlm-2-8x22b
  - openrouter:openai/gpt-4-turbo
@@ -2526,23 +2523,23 @@ Models:
  - openrouter:mistralai/mistral-large
  - openrouter:openai/gpt-3.5-turbo-0613
  - openrouter:openai/gpt-4-turbo-preview
- - openrouter:mistralai/mistral-small
  - openrouter:mistralai/mistral-tiny
+ - openrouter:mistralai/mistral-small
  - openrouter:mistralai/mistral-7b-instruct-v0.2
  - openrouter:mistralai/mixtral-8x7b-instruct
  - openrouter:neversleep/noromaid-20b
  - openrouter:alpindale/goliath-120b
  - openrouter:openrouter/auto
  - openrouter:openai/gpt-4-1106-preview
- - openrouter:openai/gpt-3.5-turbo-instruct
  - openrouter:mistralai/mistral-7b-instruct-v0.1
+ - openrouter:openai/gpt-3.5-turbo-instruct
  - openrouter:openai/gpt-3.5-turbo-16k
  - openrouter:mancer/weaver
  - openrouter:undi95/remm-slerp-l2-13b
  - openrouter:gryphe/mythomax-l2-13b
- - openrouter:openai/gpt-3.5-turbo
  - openrouter:openai/gpt-4
  - openrouter:openai/gpt-4-0314
+ - openrouter:openai/gpt-3.5-turbo
 
 ==================================================
 
@@ -2628,14 +2625,14 @@ URL: https://qwen-qwen3-demo.hf.space
 Label: Qwen Qwen-3
 Model Count: 8
 Models:
- - qwen-3-14b
+ - qwen-3-8b
+ - qwen-3-1.7b
  - qwen-3-4b
  - qwen-3-32b
- - qwen-3-235b
- - qwen-3-8b
- - qwen-3-30b-a3b
  - qwen-3-0.6b
- - qwen-3-1.7b
+ - qwen-3-30b-a3b
+ - qwen-3-235b
+ - qwen-3-14b
 
 ==================================================
 
