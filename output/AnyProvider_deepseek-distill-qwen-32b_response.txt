@@ -1,2 +1,2 @@
 <think>
-Okay, the user just said, "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond with "Yes." That's straightforward. They're checking if I'm operational, so confirming with a
+Okay, so I need to figure out how to determine if a number is a perfect square. Hmm, I remember that a perfect square is a number that can be expressed as the square of an integer. For example, 16 is

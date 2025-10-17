@@ -1,3 +1,3 @@
-Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation that I'm operational.
+Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." Let me parse this.
 
-First, I need to acknowledge their greeting. Then, answer their question directly
+First, they're greeting me and asking if I'm working. The key instruction is to reply with

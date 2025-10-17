@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me make sure I understand the request. They want a simple 'Yes' to confirm that I'm active and able
+Okay, the user greeted me with Hello. I need to check if I can respond. The user also specified to reply with 'Yes' if I can respond. So the best way is to simply say 'Yes' as instructed. I
