@@ -1,2 +1,5 @@
 <think>
-Okay, so I just received a message from someone. They said, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, I need to figure out how to respond appropriately. Let me think about this
+Okay, the user asked me to reply with 'Yes' if I can respond. I should just say 'Yes' to keep it simple.
+</think>
+
+Yes

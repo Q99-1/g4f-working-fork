@@ -1,4 +1,2 @@
 <think>
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to approach this.
-
-First, the user is probably testing if I'm online or functioning. Maybe
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." First, I need to understand their intention. They might be testing if I can respond normally or checking if I'm online.
