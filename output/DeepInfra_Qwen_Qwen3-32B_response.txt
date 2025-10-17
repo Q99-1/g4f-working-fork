@@ -1,0 +1,2 @@
+<think>
+Okay, the user sent a message asking, "Hello, are you working? Reply with 'Yes' if you can respond." First, I need to understand what the user is asking. They probably want to confirm if the AI is functioning

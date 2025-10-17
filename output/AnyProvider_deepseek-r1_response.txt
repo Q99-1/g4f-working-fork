@@ -1,2 +1,4 @@
-The model does not exist in our api at the moment.
-To request a model please join: https://discord.gg/9g5wkVTn8s
+<think>
+Hmm, the user just greeted me with "Hello, are you working?" and asked me to reply with 'Yes' if I can respond. 
+
+This seems like a simple connectivity check - they might be testing if I'm online or
