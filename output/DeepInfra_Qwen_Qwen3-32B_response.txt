@@ -1,2 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down. They're checking if I'm active and able to communicate. My task is to acknowledge their message
+Okay, the user is asking if I can respond by replying with 'Yes'. I need to check if they're testing my basic functionality and direct response ability. First, they said "Hello", then asked if I'm working, requesting

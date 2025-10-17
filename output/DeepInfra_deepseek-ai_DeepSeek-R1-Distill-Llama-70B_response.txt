@@ -1,2 +1,5 @@
 <think>
-Okay, so I just received a message from someone, and they wrote, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, that's interesting. I wonder what they're trying to figure out.
+Alright, the user is asking if I'm working and wants a 'Yes' response. I should keep it simple and just reply with 'Yes.'
+</think>
+
+Yes
