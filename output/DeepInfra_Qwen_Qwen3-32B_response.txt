@@ -1,2 +1,2 @@
 <think>
-Okay, the user greeted me with Hello. I need to check if I can respond. The user also specified to reply with 'Yes' if I can respond. So the best way is to simply say 'Yes' as instructed. I
+Okay, the user asked, Hello, are you working? Reply with 'Yes' if you can respond. Alright, first I need to confirm if the user is asking if I'm available to respond. They want a 'Yes' reply
