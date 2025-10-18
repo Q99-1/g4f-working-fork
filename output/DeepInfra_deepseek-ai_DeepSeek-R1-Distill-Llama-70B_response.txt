@@ -1,2 +1,4 @@
 <think>
-Okay, so I'm trying to figure out how to calculate the age of a tree based on its growth rings. I remember that each growth ring represents one year, right? So, if I can count the number of rings, that should
+Okay, so I need to figure out how to solve this problem. Let me just read it again to make sure I understand what's being asked. 
+
+The question is about calculating the electric potential energy (U) of two point charges,

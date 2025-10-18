@@ -1,2 +1,2 @@
 <think>
-Okay, the user sent a message asking if I'm working and wants a reply with 'Yes' if I can respond. Let me start by understanding their needs. They probably want confirmation that I'm online and functional, maybe to continue a
+Okay, the user is greeting me and asking if I'm working. They want me to reply with 'Yes' if I can respond. I need to make sure I acknowledge their message. Let me check the instructions. They said "are

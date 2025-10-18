@@ -1,2 +1,4 @@
 <think>
-Okay, the user sent a message: "Hello, are you working? Reply with 'Yes' if you can respond." I need to reply. According to the instructions, I should first reply with 'Yes', then answer the question.
+Alright, the user is asking if I'm working and wants a reply with 'Yes' if I can respond. Let me check the requirements.
+
+First, the user's message is straightforward: "Hello, are you working? Reply with '
