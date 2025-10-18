@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." I need to acknowledge their question and confirm that I can respond by replying with "Yes." Let me check the requirements
+Okay, I need to respond to the user's query. They asked, "Hello, are you working? Reply with 'Yes' if you can respond." So first, I should check if I can reply. Since the user is asking
