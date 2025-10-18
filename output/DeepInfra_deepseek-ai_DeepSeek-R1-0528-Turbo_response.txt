@@ -1,4 +1,4 @@
 <think>
-Hmm, a simple greeting with a direct question. The user seems to be checking if I'm operational before proceeding - probably wants to ensure they're not talking into a void.  
+Hmm, the user just greeted me and asked if I'm working, requesting a simple 'Yes' reply if I can respond. 
 
-The phrasing "are you working?" feels slightly technical,
+Okay, this seems like a basic availability check - probably someone testing if I'm online or functional.

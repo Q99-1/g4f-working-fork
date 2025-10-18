@@ -1,2 +1,2 @@
 <think>
-Okay, so I just got a message from someone asking if I'm working and to reply with 'Yes' if I can respond. I need to figure out how to handle this. First, I should confirm that I'm functional. Since
+Okay, the user sent a greeting and asked if I'm working. I replied with 'Yes' as instructed. Now, they followed up with 'Hello! How can I assist you today?'. I need to respond in a friendly and

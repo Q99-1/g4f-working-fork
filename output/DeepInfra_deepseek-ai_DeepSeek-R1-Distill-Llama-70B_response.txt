@@ -1,2 +1,3 @@
 <think>
-Okay, so I need to figure out how to answer someone who's wondering if I can respond with 'Yes' if I'm working. That seems pretty straightforward. I should start by acknowledging their message. Maybe say hello or respond to their
+Okay, the user just said "Yes." Since they asked me to respond if I can, I think they're probably checking if I'm functional.
+Maybe they're starting a conversation or testing if I'm working. I should keep it friendly
