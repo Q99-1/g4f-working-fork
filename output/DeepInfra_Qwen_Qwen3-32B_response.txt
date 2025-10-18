@@ -1,4 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me see.
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the instructions. They want a reply of 'Yes' if I can respond.
 
-First, I need to understand what they're asking. They might be testing if the AI is active
+So the correct response should

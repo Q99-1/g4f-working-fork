@@ -1,2 +1,2 @@
 <think>
-Okay, so the user wrote, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." Hmm, they're checking if I'm available. I should respond with "Yes" as they
+Okay, so the user just said, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, they're checking if I'm operational. I need to respond with 'Yes' as instructed. That's
