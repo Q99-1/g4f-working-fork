@@ -1,4 +1,2 @@
 <think>
-Okay, the user is asking if I am working. They want me to reply with 'Yes' if I can respond. I need to make sure I follow their instruction correctly. Let me check the message again.
-
-The user says, "
+Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." They want confirmation that I can respond. I need to check if I can indeed reply. Since I'm the AI here,

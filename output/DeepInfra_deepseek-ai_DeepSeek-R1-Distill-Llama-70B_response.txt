@@ -1,2 +1,0 @@
-<think>
-Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." So they're checking if I'm available to help. I should respond positively to let them know I'm here and ready.

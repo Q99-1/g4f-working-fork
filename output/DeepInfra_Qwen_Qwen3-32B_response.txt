@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working. I need to make sure I understand their question properly. They want a simple 'Yes' if I can respond. Let me check the requirements. They mentioned replying with just 'Yes
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me see.
+
+First, I need to understand what they're asking. They might be testing if the AI is active
