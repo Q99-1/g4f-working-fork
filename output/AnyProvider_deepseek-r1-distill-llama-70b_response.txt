@@ -1,6 +1,2 @@
 <think>
-Okay, the user asked "Hello, are you working? Reply with 'Yes' if you can respond." So they want a simple confirmation.
-
-I should respond with just "Yes" to keep it straightforward.
-
-That's all they need,
+Alright, so I just got a message from someone asking, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, interesting. I need to figure out what they mean by this. They might be checking

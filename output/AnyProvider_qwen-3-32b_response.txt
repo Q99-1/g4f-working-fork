@@ -1,2 +1,4 @@
 <think>
-Okay, the user is greeting me and asking if I'm working. They want me to reply with 'Yes' if I can respond. I need to make sure I acknowledge their message. Let me check the instructions. They said "are
+Okay, the user is asking if I am working. They want me to reply with 'Yes' if I can respond. I need to make sure I follow their instruction correctly. Let me check the message again.
+
+The user says, "

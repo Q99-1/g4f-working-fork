@@ -1,2 +1,4 @@
 <think>
-Okay, so I need to figure out how to solve this problem. Wait, what's the problem again? Oh right, the user just asked me whether I'm working and to reply with 'Yes' if I can respond. So I
+Okay, the user asked if I'm working. I replied with "Yes" as instructed.
+They mentioned I should keep this chat going and be conversational.
+I need to make sure my responses are engaging and helpful without being too robotic.
