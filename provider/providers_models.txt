@@ -558,7 +558,7 @@ Provider: HuggingFace
 ------------------------------
 URL: https://huggingface.co
 Label: None
-Model Count: 41
+Model Count: 43
 Models:
  - inclusionAI/Ling-1T
  - zai-org/GLM-4.6
@@ -581,9 +581,11 @@ Models:
  - meta-llama/Llama-3.2-3B-Instruct
  - Qwen/Qwen3-4B-Thinking-2507
  - meta-llama/Llama-3.1-8B
- - deepseek-ai/DeepSeek-V3.1-Terminus
- - meta-llama/Llama-3.3-70B-Instruct
  - Qwen/Qwen3-1.7B
+ - deepseek-ai/DeepSeek-V3.1-Terminus
+ - mistralai/Mistral-7B-Instruct-v0.2
+ - meta-llama/Llama-3.3-70B-Instruct
+ - meta-llama/Meta-Llama-3-8B-Instruct
  - swiss-ai/Apertus-8B-Instruct-2509
  - meta-llama/Llama-3.2-11B-Vision-Instruct
  - Qwen/Qwen2-VL-7B-Instruct
@@ -598,8 +600,8 @@ Models:
  - black-forest-labs/FLUX.1-dev
  - black-forest-labs/FLUX.1-schnell
  - Phr00t/Qwen-Image-Edit-Rapid-AIO
- - lightx2v/Qwen-Image-Lightning
  - tencent/HunyuanImage-3.0
+ - lightx2v/Qwen-Image-Lightning
  - stabilityai/stable-diffusion-xl-base-1.0
 
 ==================================================
@@ -634,13 +636,13 @@ Models:
  - meta-llama/Llama-3.2-3B-Instruct
  - Qwen/Qwen3-4B-Thinking-2507
  - Qwen/Qwen3-VL-235B-A22B-Thinking
+ - Qwen/Qwen3-1.7B
  - deepseek-ai/DeepSeek-V3.1-Terminus
+ - mistralai/Mistral-7B-Instruct-v0.2
  - meta-llama/Llama-3.3-70B-Instruct
  - meta-llama/Llama-4-Scout-17B-16E-Instruct
- - Qwen/Qwen3-1.7B
- - swiss-ai/Apertus-8B-Instruct-2509
- - mistralai/Mistral-7B-Instruct-v0.2
  - meta-llama/Meta-Llama-3-8B-Instruct
+ - swiss-ai/Apertus-8B-Instruct-2509
  - Qwen/Qwen3-32B
  - zai-org/GLM-4.5-Air
  - HuggingFaceH4/zephyr-7b-beta
@@ -681,6 +683,7 @@ Models:
  - GritLM/GritLM-7B
  - IlyaGusev/saiga_llama3_8b
  - Sao10K/L3-70B-Euryale-v2.1
+ - Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2
  - inflatebot/MN-12B-Mag-Mell-R1
  - Qwen/Qwen2.5-Coder-7B-Instruct
  - google/gemma-2-2b-jpn-it
@@ -714,7 +717,6 @@ Models:
  - meta-llama/Llama-3.1-405B-Instruct
  - unsloth/Meta-Llama-3.1-8B-Instruct
  - NousResearch/Hermes-3-Llama-3.1-8B
- - Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2
  - arcee-ai/Llama-3.1-SuperNova-Lite
  - Qwen/Qwen2.5-72B-Instruct
  - Qwen/Qwen2.5-Math-1.5B
@@ -801,7 +803,7 @@ Provider: HuggingFaceMedia
 ------------------------------
 URL: https://huggingface.co
 Label: HuggingFace
-Model Count: 227
+Model Count: 229
 Models:
  - akhaliq/sora-2
  - akhaliq/sora-2:fal-ai
@@ -913,6 +915,8 @@ Models:
  - ostris/embroidery_style_lora_sdxl:fal-ai
  - itzzdeep/youtube-thumbnails-sdxl-lora
  - itzzdeep/youtube-thumbnails-sdxl-lora:fal-ai
+ - playgroundai/playground-v2.5-1024px-aesthetic
+ - playgroundai/playground-v2.5-1024px-aesthetic:replicate
  - rajkumaralma/futureistic_fantasy_anime_sDXL
  - rajkumaralma/futureistic_fantasy_anime_sDXL:fal-ai
  - fofr/sdxl-emoji
@@ -1918,7 +1922,7 @@ Provider: PollinationsAI
 ------------------------------
 URL: https://pollinations.ai
 Label: Pollinations AI 🌸
-Model Count: 36
+Model Count: 35
 Models:
  - openai
  - evil
@@ -1941,7 +1945,6 @@ Models:
  - flux
  - turbo
  - kontext
- - gptimage
  - openai-audio
  - alloy
  - echo
@@ -1963,12 +1966,11 @@ Provider: PollinationsImage
 ------------------------------
 URL: https://pollinations.ai
 Label: PollinationsImage
-Model Count: 4
+Model Count: 3
 Models:
  - flux
  - turbo
  - kontext
- - gptimage
 
 ==================================================
 
@@ -2615,14 +2617,14 @@ URL: https://qwen-qwen3-demo.hf.space
 Label: Qwen Qwen-3
 Model Count: 8
 Models:
- - qwen-3-32b
- - qwen-3-8b
- - qwen-3-30b-a3b
- - qwen-3-14b
  - qwen-3-1.7b
- - qwen-3-0.6b
- - qwen-3-235b
  - qwen-3-4b
+ - qwen-3-235b
+ - qwen-3-32b
+ - qwen-3-30b-a3b
+ - qwen-3-0.6b
+ - qwen-3-8b
+ - qwen-3-14b
 
 ==================================================
 

@@ -1,2 +1,1 @@
-<think>
-Okay, the user just greeted me and asked if I'm working, asking to reply with 'Yes' if I can respond. First, I need to confirm their request and use the specified format. They probably want to check if I'm
+Yes

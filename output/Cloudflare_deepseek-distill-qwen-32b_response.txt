@@ -1,2 +1,4 @@
 <think>
-Okay, so the user just said, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, they're checking if I'm operational. I need to respond with 'Yes' as instructed. That's
+Okay, so I need to figure out how to respond when the user says, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." Alright, let me break this down.
+
+First,
